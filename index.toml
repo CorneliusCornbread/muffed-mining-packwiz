@@ -567,6 +567,11 @@ hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
@@ -584,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "5cbff636a4441d6c1807d1f1f5c647e91f0ae919180b76b8e65420c3a19bc2be"
+metafile = true
+
+[[files]]
+file = "mods/bakeries-renyigesai.pw.toml"
+hash = "1f028f0f8f9fa36c74dcee2361de96ca5038f5deca7c1adb71351915389b5a79"
 metafile = true
 
 [[files]]
@@ -807,6 +817,11 @@ hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ocean-mobs.pw.toml"
+hash = "05240ffd4c5afe5849f62c54cc48cbfc2bb9984b80a123a3bf7060f6cf11fcaf"
+metafile = true
+
+[[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "89cd21d579629da99be6871a9bc877424c89bb37f227868cf952b866efa8211a"
 metafile = true
@@ -819,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -839,6 +859,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
@@ -1129,6 +1159,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
 
 [[files]]

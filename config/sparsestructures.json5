@@ -52,18 +52,17 @@
       "structure": "totw_modded:twilightforest",
       "factor": 6
     },
-
-    {
-      "structure": "dungeons_arise:heavenly_rider",
-      "factor": 3
-    },
     {
       "structure": "betteroceanmonuments:better_ocean_monuments",
       "factor": 2
     },
     {
+      "structure": "dungeons_arise:heavenly_rider",
+      "factor": 4
+    },
+    {
       "structure": "dungeons_arise:bathhouse",
-      "factor": 2
+      "factor": 4
     },
     {
       "structure": "dungeons_arise:abandoned_temple",
