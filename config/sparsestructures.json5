@@ -18,39 +18,39 @@
   "customSpreadFactors": [
     {
       "structure": "totw_modded:aether",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:end",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:everbright",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:everdawn",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:nether",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:overworld",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:planets",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:ratlantis",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "totw_modded:twilightforest",
-      "factor": 6
+      "factor": 8
     },
     {
       "structure": "betteroceanmonuments:better_ocean_monuments",
@@ -70,10 +70,6 @@
     },
     {
       "structure": "minecraft:minecraft:villages",
-      "factor": 1.6
-    },
-    {
-      "structure": "minecraft:taiga",
       "factor": 1.6
     },
     // add the structures you want to modify in the format:
