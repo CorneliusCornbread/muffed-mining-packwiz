@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "f691cb291cdd68a18683df04322357add2a9d5ddbe5b48518d9d1c70450a68a7"
-
-[[files]]
 file = "config/BBEConfig.json"
 hash = "a1bdbd84f5af95c2de06cb8e8d05a9b34595a2f8bffc8a34590e605ac66f3eb9"
 

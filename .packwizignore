@@ -1,5 +1,6 @@
 # Ignore all .sh files
 *.sh
 
-# Ignore modlist file
+# Ignore documentation files
 modlist.md
+README.md
