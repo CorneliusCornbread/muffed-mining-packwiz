@@ -462,7 +462,7 @@ hash = "5f25f063d4f388bdf38263ea7426165767b9b3b6d42f87be7fb80e9917585541"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "b79a7c6d0eb81a36b66ddf37b1db2d5423f765a22d302e85d0fe30e590de4512"
+hash = "5950444f576016e99931d7e60fd27e0073838c3c7c2dd46cd2b1b41c359192ca"
 
 [[files]]
 file = "config/stellaris-config.json"
