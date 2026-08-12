@@ -952,6 +952,11 @@ hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "cbbb382ec9574abdb0b0734d4f43b87b9fb607066ea2ac13235bcf37e7ab1794"
+metafile = true
+
+[[files]]
 file = "mods/revive-through-grass-playerrevive-add-on.pw.toml"
 hash = "c530a78770b81fb22d756c38930d9f54725e1583a1c6dd4c543bd205430449dc"
 metafile = true
