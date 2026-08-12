@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f691cb291cdd68a18683df04322357add2a9d5ddbe5b48518d9d1c70450a68a7"
+
+[[files]]
+file = "migrate-modpack.sh"
+hash = "3456df8a64c4f049609101223969dbbb681a225a68d0733ce4e38600e7d8ba67"
+
+[[files]]
+file = "modlist.md"
+hash = "c17dac8a4b1168f1dc0d5811e888a27e39b1d466e8e938575f1923c93641e270"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "ef2937e2ef6bc64e68b45ca10b11cf0aa7f72ffc0fbffdddbc4bb456a7feb526"
 metafile = true
@@ -47,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomespy.pw.toml"
-hash = "45cd62c89a6582119da9f72542a4f2453f491bb5e6288bf9bda1b5d39179e351"
+hash = "4675caad29a4e22cd03f9e1229dd78c2aec147d450f4ef50ea8255016f74c008"
 metafile = true
 
 [[files]]
@@ -317,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f0c66fc8c3d9dbea2704b007e79125377d50484ff3a40c280b48707659209045"
+hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
 metafile = true
 
 [[files]]
@@ -402,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/reworked-phantoms.pw.toml"
-hash = "0a8c004aef338d9f8550e93a2dc7156fbfdf717bf4c934134b85f5d0a4e46651"
+hash = "bc10603f4034579eeb6b5ee4138a0bc68743d3f2e6162889b26b47ebe0977316"
 metafile = true
 
 [[files]]
@@ -422,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/second-chance-forge.pw.toml"
-hash = "ce9cd1d0be21e864943e3c962c6a2f36b1046d5522c17c0c7253236e53724c9d"
+hash = "2583f1d861bb562eafbefdb4cbbd5b7e42f48e54c59c93d040cd5f5d91edcb93"
 metafile = true
 
 [[files]]
@@ -437,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "918104735fe4da7e223394b5f76c0f063178b34e653fab7135ce451fd08d0746"
+hash = "2a1c96733de8dbafbb978e396d971b71d3a4d1068e2467b16275b6a91cf265a1"
 metafile = true
 
 [[files]]
@@ -467,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
@@ -527,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystone-towers.pw.toml"
-hash = "15f83650638517597257f754b9e63502e77568ea8141c09f7462500782ee0ea6"
+hash = "d7a59d36f691ab5a0693759aaf89d84fb88da741cfabf7435b970378f9256b04"
 metafile = true
 
 [[files]]
@@ -552,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "7e6948368276f2c49d5bccf52cbf80930d0daca75b4dfbc5530479f1d3f95cf8"
+hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
 metafile = true
 
 [[files]]
@@ -567,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
