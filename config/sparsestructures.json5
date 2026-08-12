@@ -69,15 +69,7 @@
       "factor": 1
     },
     {
-      "structure": "minecraft:village_desert",
-      "factor": 1.6
-    },
-    {
-      "structure": "minecraft:village_plains",
-      "factor": 1.6
-    },
-    {
-      "structure": "minecraft:village_snowy",
+      "structure": "minecraft:minecraft:villages",
       "factor": 1.6
     },
     {
