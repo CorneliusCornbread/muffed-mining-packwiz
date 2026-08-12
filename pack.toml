@@ -1,0 +1,13 @@
+name = "Muffed Mining"
+author = "CorneliusCorn"
+version = "4.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d539d971d9d95f763fc5c787155811a23abbd791bb9078042c7d2195fbdf787"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

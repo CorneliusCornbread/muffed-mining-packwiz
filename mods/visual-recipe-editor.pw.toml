@@ -1,0 +1,13 @@
+name = "Visual Recipe Editor"
+filename = "visual_recipe_editor-1.2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bgb7Uocy/versions/vPzKvjUL/visual_recipe_editor-1.2.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0ffc24baab39618fd5ef1fa5c980acc6401bf2a52cedd0fedb094322390a2b990e8a065eb07f8cff02773aac9b356ce2943e48beab26d8a66be624af65a8eb24"
+
+[update]
+[update.modrinth]
+mod-id = "Bgb7Uocy"
+version = "vPzKvjUL"

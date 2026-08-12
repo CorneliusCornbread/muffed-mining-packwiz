@@ -1,0 +1,13 @@
+name = "Cushion Backport"
+filename = "cushionbackport-1.21.1-NeoForge-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DBGOO7gw/versions/CALLFNZp/cushionbackport-1.21.1-NeoForge-1.0.5.jar"
+hash-format = "sha512"
+hash = "cad1d266f526eda70dc4e59725fc51204e74c17a75b462d9854a642a683cc739e73b3f1387f1fb27639b13554841bfbda8c98dd39199efe7c1b11b4a58f3d641"
+
+[update]
+[update.modrinth]
+mod-id = "DBGOO7gw"
+version = "CALLFNZp"

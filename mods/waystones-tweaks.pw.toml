@@ -1,0 +1,13 @@
+name = "Waystones Tweaks"
+filename = "waystones_tweaks-1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p9VhYD94/versions/gq7dOcj0/waystones_tweaks-1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f61325682cfe524d5ee9277dd775a316e498c1bd88d0579c0d0b2f58532ee866a6b7dfa88f9bc21b2ec9a092b5e2f7b47f1db8b8215e6672460aca3f737a36f1"
+
+[update]
+[update.modrinth]
+mod-id = "p9VhYD94"
+version = "gq7dOcj0"

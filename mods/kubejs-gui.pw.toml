@@ -1,0 +1,13 @@
+name = "KubeJS GUI Overhauled"
+filename = "streetskubegui-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i8DkrJYa/versions/n40FypoI/streetskubegui-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "da71f534bc095bc7e2a71275948b3bf0218efdd74c0aed9fc5e6911e6a46e1ebc2feda05f9c4d5c0554a0b7491c5dd9c33a000f689c30560e1550414e57d8a6c"
+
+[update]
+[update.modrinth]
+mod-id = "i8DkrJYa"
+version = "n40FypoI"

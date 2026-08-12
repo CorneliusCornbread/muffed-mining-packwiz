@@ -1,0 +1,13 @@
+name = "Create: Plenty O' Recipes - (Biomes O' Plenty + Create)"
+filename = "createplenty-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvS8IWLP/versions/6Hq9tCLR/createplenty-1.0.3.jar"
+hash-format = "sha512"
+hash = "d3e53266a3dbf6c06aeec6fb9d9485e08685871a5a138037d106d4a7c70c23fe4511599a155b217961cd27428613d207ab55ca2395692157993d2fdbf8dad33e"
+
+[update]
+[update.modrinth]
+mod-id = "hvS8IWLP"
+version = "6Hq9tCLR"

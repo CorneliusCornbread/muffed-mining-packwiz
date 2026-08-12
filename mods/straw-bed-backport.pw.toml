@@ -1,0 +1,13 @@
+name = "Straw Bed Backport"
+filename = "strawbedbackport-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1CtqTjfI/versions/Jr1aoNcf/strawbedbackport-1.0.4.jar"
+hash-format = "sha512"
+hash = "4fa598c0ad12a1e1ae2aba3811c9aedddfe7cef6ac64a405879bcf4a636b91219ce7145cb2acbc92d2fed75051254afa80fda889f0c117cba913acf087f47d4c"
+
+[update]
+[update.modrinth]
+mod-id = "1CtqTjfI"
+version = "Jr1aoNcf"

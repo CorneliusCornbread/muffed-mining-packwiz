@@ -1,0 +1,13 @@
+name = "Surveystones"
+filename = "surveystones-2.0.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3WJvB4r/versions/XverTbjg/surveystones-2.0.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "5609410719801c84970b2ba3a2d083ab601633275f5863f69bcde471f2a73c02f5f5a731f1a79008b7ec61ce7e423913d604be6c3f7f96e6eb34f3a97fab16b5"
+
+[update]
+[update.modrinth]
+mod-id = "f3WJvB4r"
+version = "XverTbjg"

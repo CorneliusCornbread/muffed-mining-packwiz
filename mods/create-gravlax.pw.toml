@@ -1,0 +1,13 @@
+name = "Create: Gravlax"
+filename = "create_gravlax-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ga2MPJW6/versions/N6xqksPB/create_gravlax-1.0.jar"
+hash-format = "sha512"
+hash = "eb52c621aa5ce613138979265c24565198b5f54ebcc73d07efd2411cf4ee1ae20c0cb396359265090ca1be35a2d0cf450917730667df85790ec97b39cafbe712"
+
+[update]
+[update.modrinth]
+mod-id = "ga2MPJW6"
+version = "N6xqksPB"

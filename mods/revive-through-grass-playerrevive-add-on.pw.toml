@@ -1,0 +1,13 @@
+name = "Revive Through Grass! [PlayerRevive add-on]"
+filename = "revive_through_grass-0.1.1+1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98561e9ec99acfb19d31cd5cddeb88d4915ea566"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8467994
+project-id = 1615849
