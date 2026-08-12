@@ -1,0 +1,14 @@
+#Local visual preferences. These values never alter the server's revive policy.
+[visuals]
+	#COLORED replaces the vanilla outline with the configured color.
+	#HIDDEN draws no block outline for a valid pass-through revive target.
+	#VANILLA leaves Minecraft's ordinary block outline completely unchanged.
+	#Allowed Values: COLORED, HIDDEN, VANILLA
+	highlight_mode = "COLORED"
+	#Outline RGB color as a 24-bit integer. TOML hexadecimal values such as 0x33FF33 are supported.
+	# Default: 3407667
+	# Range: 0 ~ 16777215
+	highlight_color = 3407667
+	#PERSISTENT keeps the configured color; PULSATING fades smoothly between black and that color.
+	#Allowed Values: PERSISTENT, PULSATING
+	highlight_animation = "PULSATING"

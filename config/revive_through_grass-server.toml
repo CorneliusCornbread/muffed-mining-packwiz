@@ -1,0 +1,23 @@
+#Server-authoritative behavior for Revive Through Grass! revive attempts.
+#These values are synchronized to connected clients.
+[behavior]
+	#Prevent the helper's hand-swing animation when starting a valid revive through an allowed block.
+	suppress_hand_swing_animation = true
+
+#Server-authoritative blocks that may be ignored only while targeting a downed PlayerRevive player.
+#A configured block must also have no collision shape, no fluid, and no block entity at runtime.
+[pass_through]
+	#Allow short grass (minecraft:short_grass).
+	grass = true
+	#Allow tall grass (minecraft:tall_grass).
+	tall_grass = true
+	#Allow ferns and large ferns.
+	ferns = true
+	#Allow ordinary vanilla flowers, including the wither rose.
+	flowers = true
+	#Additional namespaced block IDs to allow, for example "examplemod:small_plant".
+	#The order is preserved. Unknown, malformed, solid, fluid-containing, or block-entity entries are ignored.
+	additional_blocks = []
+	#Namespaced block IDs that must remain blocked. The order is preserved.
+	#This list overrides categories and additional_blocks.
+	blocked_blocks = []

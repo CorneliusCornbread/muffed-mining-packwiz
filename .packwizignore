@@ -1,0 +1,5 @@
+# Ignore all .sh files
+*.sh
+
+# Ignore modlist file
+modlist.md
