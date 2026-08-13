@@ -5,3 +5,6 @@
 modlist.md
 README.md
 LICENSE
+
+# Ignore in dev datapacks folder
+datapacks-src/

@@ -521,6 +521,10 @@ file = "config/zfastnoise.mixin.properties"
 hash = "5e3af3e1f2b0abbeb35b8310566cb5806f779045a3ef89a2679c31a2e4a28c96"
 
 [[files]]
+file = "datapacks/muffed_mining.zip"
+hash = "1378060825a664075da609e171f2e49086a1f47ece65da1852a781f1b910b252"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -564,6 +568,16 @@ metafile = true
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
+file = "mods/aeroengine.pw.toml"
+hash = "8e9548123585d8c1d11f96f0f6e917b01c9934fb097167486f18ff7dbe3e4af6"
+metafile = true
+
+[[files]]
+file = "mods/aeronauticswind-tunnel.pw.toml"
+hash = "a04715d267cf8b26e8e39094967587574effd8f47e0aef5fec4aab7a30ac59ed"
 metafile = true
 
 [[files]]
@@ -732,6 +746,11 @@ hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "4773ff19187020e8e4484a17c426775309f8dfc34af5ff453fa5ffc662afa530"
 metafile = true
@@ -797,6 +816,11 @@ hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
+file = "mods/dimension-teleport.pw.toml"
+hash = "655c979863275a29f8bbf20669ec17c2a6466a93b5824483fa694f52a7644c53"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
@@ -854,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "49a15bf3a496e885d01e6dd4bf3e08158c9b5c2998027083c3248a6defbce974"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
 metafile = true
 
 [[files]]
@@ -972,6 +1001,11 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "b3820b16f6a02aef50612f3c3fb652788488ba4cfdadc1c34f006bfc71853e09"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
 metafile = true
@@ -1059,6 +1093,16 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
