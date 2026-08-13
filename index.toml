@@ -557,6 +557,11 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
 metafile = true
@@ -598,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "5cbff636a4441d6c1807d1f1f5c647e91f0ae919180b76b8e65420c3a19bc2be"
+hash = "7df9ed3c03daaef18b45a486ba324a83320c8660e8f1b8522b797f3924a0ae06"
 metafile = true
 
 [[files]]
@@ -722,8 +727,13 @@ hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "b3b334eb96040b3a08418cf6bb06875a86bb432cdb30349b1559b894a0442a7e"
+hash = "4773ff19187020e8e4484a17c426775309f8dfc34af5ff453fa5ffc662afa530"
 metafile = true
 
 [[files]]
@@ -977,6 +987,11 @@ hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "2d8016aab6d4b3410b7a35003aa9d778dad45379c89dc9490cd6c3f3bcec9f6f"
 metafile = true
@@ -1029,6 +1044,16 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
+metafile = true
+
+[[files]]
+file = "mods/panoptic.pw.toml"
+hash = "3cdaaa6a08310ee5ca04f9cc6f5752fd5d3b918538732ef7a7a36bd9d3998361"
+metafile = true
+
+[[files]]
+file = "mods/panopticon.pw.toml"
+hash = "8440fbb126cd870073fa60811695cb714373809894facc4b8dda34e3a04edf1a"
 metafile = true
 
 [[files]]
@@ -1207,6 +1232,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tfmg-energy-converter.pw.toml"
+hash = "71e1960f7fc9975d2d11a66279bad02f18c72687088517c464e3d504d5dfe7be"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "cd6be0f64e83ee84eb88b26fd446061075a4ee70c2c843f3576cfee9fd72e640"
 metafile = true
@@ -1243,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones-sable.pw.toml"
-hash = "79ec528046c9aa9f2b263eb728e82a61afc7100c83bd5b270bccffc0d19fd2e7"
+hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
 metafile = true
 
 [[files]]

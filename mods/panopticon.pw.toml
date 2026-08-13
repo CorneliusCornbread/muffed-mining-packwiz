@@ -1,0 +1,13 @@
+name = "Panopticon"
+filename = "Panopticon-1.08-NeoForge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BoAzDbPV/versions/dtssDmlH/Panopticon-1.08-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "db3ccbbbbba741e403865e0a63fda089adb6f3deed63358e249b854f427f991f01afbfc9623635f3611a7445a16f129af212f51291d4f991990bdf5f44b26760"
+
+[update]
+[update.modrinth]
+mod-id = "BoAzDbPV"
+version = "dtssDmlH"
