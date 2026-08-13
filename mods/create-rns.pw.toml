@@ -1,0 +1,13 @@
+name = "Create: Rock & Stone"
+filename = "create_rns-1.2.0-1.21.1-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wy2arhik/versions/6lMGRlxE/create_rns-1.2.0-1.21.1-6.jar"
+hash-format = "sha512"
+hash = "f114cbb788bec09dcff1d8039ed77f29673917c0c301ea1136db95342cc46e252f75990e80ee2b845bfb918bd488aea40ecd1fd9af5bf429f0026010a187a37b"
+
+[update]
+[update.modrinth]
+mod-id = "wy2arhik"
+version = "6lMGRlxE"
