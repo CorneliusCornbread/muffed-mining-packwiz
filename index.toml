@@ -1689,6 +1689,11 @@ hash = "4c05ea60d85212e4737d23a4b5ee74659a37c7cb9d6ab54c71b2eca56ed1f58c"
 metafile = true
 
 [[files]]
+file = "mods/chemica.pw.toml"
+hash = "65f74f40a3348d7407904828840cfa25d635661c604c564be0eed711c1799add"
+metafile = true
+
+[[files]]
 file = "mods/chunksmith.pw.toml"
 hash = "9a84dc019903baa53ce0874600b50bd11ed86a0bba53946c54a6a10269e000bd"
 metafile = true
