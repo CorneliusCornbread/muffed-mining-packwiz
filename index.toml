@@ -1489,6 +1489,10 @@ file = "kubejs/server_scripts/tfmg/steel_tag_fix.js"
 hash = "65f8828d150d685cc3e7b038519c3a54e9132aef99e87fe4cb18503025489a69"
 
 [[files]]
+file = "kubejs/server_scripts/tfmg/steel_tools.js"
+hash = "87ac79cc39932cb173e963dfdee9f9791b73a108dc15d3dde23730b77052f9c8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
