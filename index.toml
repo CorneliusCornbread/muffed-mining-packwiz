@@ -1482,7 +1482,15 @@ hash = "03d10e4bd5ba4b207bf39a3c8d2c959e7c0d3a9b017031d2cfe1246709e83ab7"
 
 [[files]]
 file = "kubejs/server_scripts/stellaris/stellaris_steel.js"
-hash = "d85bebc3aa119a0b94f5a6974c383c0ffd0e1394287fa02377463ee0a8cf3156"
+hash = "a35d2ebaaca3ab2b40515ee503874cfba533bc6d6c58b9f5f1bb3b9e3741c481"
+
+[[files]]
+file = "kubejs/server_scripts/tfmg/steel_tag_fix.js"
+hash = "65f8828d150d685cc3e7b038519c3a54e9132aef99e87fe4cb18503025489a69"
+
+[[files]]
+file = "kubejs/server_scripts/tfmg/steel_tools.js"
+hash = "87ac79cc39932cb173e963dfdee9f9791b73a108dc15d3dde23730b77052f9c8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1682,6 +1690,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "4c05ea60d85212e4737d23a4b5ee74659a37c7cb9d6ab54c71b2eca56ed1f58c"
+metafile = true
+
+[[files]]
+file = "mods/chemica.pw.toml"
+hash = "65f74f40a3348d7407904828840cfa25d635661c604c564be0eed711c1799add"
 metafile = true
 
 [[files]]
@@ -2503,6 +2516,10 @@ metafile = true
 file = "mods/tfmg-energy-converter.pw.toml"
 hash = "71e1960f7fc9975d2d11a66279bad02f18c72687088517c464e3d504d5dfe7be"
 metafile = true
+
+[[files]]
+file = "mods/tfmg_stellaris_compat-1.2.0.jar"
+hash = "235610d2b5c333d786d201874d666882b8372c251f52338a2296881cd73a2458"
 
 [[files]]
 file = "mods/totw-modded.pw.toml"
