@@ -141,6 +141,26 @@ file = "config/MekanismMoreMachine/tiers.toml"
 hash = "a923c9838d3acb3df9873d348bcb6eb1cd934d58f4c4eb9b4d7e17db39893530"
 
 [[files]]
+file = "config/Veinminer/blocks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "d50085eff7c760518e568793eab23f1d0ec21135340e8f5ba5f8ba17e6a92ed7"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "e9e5119a09b200f218354d9530ed0fd946f322ecfe4b5b4f55d30e2c8de3594b"
+
+[[files]]
+file = "config/Veinminer/update/veinminer-client-neoforge-2.11.2+1.21.1.jar"
+hash = "a897851b9e5fffd9d17e89b7ad67aa7ac2bd6322272ab0cc20c0feb52e5ee5b0"
+
+[[files]]
+file = "config/Veinminer/update/veinminer-neoforge-2.11.2+1.21.1.jar"
+hash = "2d70ecdbf24b7e5e3ab6f19715dcb37d956931e0b65e7026b4d5524e002c46e4"
+
+[[files]]
 file = "config/ae2-client.toml"
 hash = "44ef758c12d31f42aba3a158747a478d5c1879e8bff9700744f4238294caeb33"
 
@@ -231,6 +251,10 @@ hash = "0ce3691bf114d731d9af982f809af2ca88c6cdb2173597f2d82513cdd5610a41"
 [[files]]
 file = "config/apotheosis/apothic_enchanting.cfg"
 hash = "d44a28ad5ba29bd441c06aa30938bc6ccac38d844a7517a9c965c99b67657abd"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "60670ba4504f838f6fedde5aefabea46e040de70824eaf5405edaa49d99f3e1f"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -677,12 +701,24 @@ file = "config/create_dragons_plus-simulated-extension-server.toml"
 hash = "0de5b1bdbe632be0df582afe49a8073b38816b58a5016c0806cd6cf52666917e"
 
 [[files]]
+file = "config/create_enchantment_industry-apotheosis-server.toml"
+hash = "ac3fa3bbb1b859a1bcb53ad87a47cde5fde952f28b97d6c1220af33438e295f7"
+
+[[files]]
+file = "config/create_enchantment_industry-apothic_enchanting-server.toml"
+hash = "61b12f6b50058e4bde582a4325d4ab25a6fd30dab05e454407f780eefe0a4d93"
+
+[[files]]
 file = "config/create_enchantment_industry-client.toml"
 hash = "a12fe6bf0d2f2b1c1a4ad05ab17cbd34f9fdf1dbcef20085f6b48a4dcf94d242"
 
 [[files]]
 file = "config/create_enchantment_industry-common.toml"
 hash = "c758403d22c507ca6c7c3e52460ac2668127b9a20ee2cd85e0e2aed1d252f35b"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "74d6bf333342576057cb0da6252a0aa836191090ec30d75d5e100de2b1fb6f68"
 
 [[files]]
 file = "config/create_rns-server.toml"
@@ -723,6 +759,14 @@ hash = "df1b1e3fcfe3c707619426c1b401041372f847153fc344ba306a16a8ffa46aeb"
 [[files]]
 file = "config/createpropulsion-common.toml"
 hash = "bd7194849785c9704eb361f82d084f3e92e2374f518946e786c5016ce027e9e4"
+
+[[files]]
+file = "config/createrailgrinding-client.toml"
+hash = "920b61951cd6ca2d76490e8bfc41e8350a74ce3a26b6a5f2dadfd761697a3a5f"
+
+[[files]]
+file = "config/createrailgrinding-server.toml"
+hash = "9abaf463f4e13a27924097b46aa5c6327e16b74bad365c3d5d4ef5233b978c1b"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
@@ -877,6 +921,26 @@ file = "config/iris.properties"
 hash = "6d8f6c0888ef48952bcd11d5ba94311475912cf924624baacd920e2518ee67e6"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "075e2b295783ad8d72299cf5fcbe0080c239336d1f4f9a763d62eb4ea0a2c774"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "afd900798402cdfe4c20f6b0582fb95a7b6b18b59090b9d6d0de452d6ac0df4c"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
@@ -1013,6 +1077,10 @@ file = "config/malilib.json"
 hash = "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0"
 
 [[files]]
+file = "config/maxhealthfix.json"
+hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
+
+[[files]]
 file = "config/mcqoy.toml"
 hash = "5ded9a920b11f1d4cab63993bc52dad330c6c2f2172356b964953e502c655937"
 
@@ -1133,6 +1201,10 @@ file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e0ce9e4388248aae1f1089bcf432f5a8f9c63bab75d6771e6f0ddb2d72791180"
+
+[[files]]
 file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
@@ -1197,6 +1269,14 @@ file = "config/sky_aesthetics.json"
 hash = "19558d4070f194719cf66046f52cc226b402ae37e2ad5b016ea22d96a17ded50"
 
 [[files]]
+file = "config/slag-common.toml"
+hash = "d90848404785d268f3255ff983d2a5149b35e00c5c99c68dada31eaea2a7ff5b"
+
+[[files]]
+file = "config/slag-server.toml"
+hash = "f97313a74e52a6b07b90beb90db20316b2fd3adbe80859a1eeed65e06ae963fa"
+
+[[files]]
 file = "config/sliceanddice-client.toml"
 hash = "765cd3bbbdd6ac865481befc841cf5a494412927d91857eb7561b213aad424d2"
 
@@ -1227,6 +1307,14 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+
+[[files]]
+file = "config/solonion-client.json"
+hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
+
+[[files]]
+file = "config/solonion.json"
+hash = "105d00b0b515d8fff493d00768d95cc41d35d4ac24e08b075eebe2fae16b8f9f"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1349,6 +1437,10 @@ file = "config/yungscavebiomes-neoforge-1_21_1.toml"
 hash = "3be6874eada8f1920b8dc30f9345c07afc7d5a7d4621f642f78c57cbe1756b27"
 
 [[files]]
+file = "config/zeta-common.toml"
+hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
+
+[[files]]
 file = "config/zfastnoise.mixin.properties"
 hash = "3e20431f46602debd30e63378ce97afa7fdb5d8e61dc5373ba21c9f39b73b67b"
 
@@ -1371,10 +1463,6 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 [[files]]
 file = "kubejs/client_scripts/emi/steel_removal.js"
 hash = "a523d59d0b0ec27c0bef455d5d684c79dd6708377e4dc815868b71cdf51424ea"
-
-[[files]]
-file = "kubejs/client_scripts/main.js"
-hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2062,6 +2150,11 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "4001d2b92e816ec91524967e1a0dd83c59da461214edf7ad246084fb22c02bc9"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
@@ -2229,6 +2322,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
 
 [[files]]
@@ -2494,6 +2592,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
