@@ -946,6 +946,11 @@ hash = "93f48d0cae69080be80efe8354e034511b18e9eb959e12e8d6817f0353e143be"
 metafile = true
 
 [[files]]
+file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
+hash = "6ac8c3f79688ec91658bc18a9da52f3db3337bce27b53bc85b3118388aee9506"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
@@ -1211,6 +1216,11 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
+file = "mods/evolved-mekanism.pw.toml"
+hash = "7473e2d1255dcc6a300ca58e821a87f255f16a032ffa868338297759a2cb961c"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
@@ -1316,6 +1326,11 @@ hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
+file = "mods/iglee-library.pw.toml"
+hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
@@ -1368,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-gui.pw.toml"
 hash = "36a1b234b61e9e51ed3143195fffb673eba5718943ac6b9d690c99b202f95c11"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "828f12a754a929bf2e955cf9d0acca4cbe305f172e94c556fe9b0704bcaff7e0"
 metafile = true
 
 [[files]]
@@ -1431,6 +1451,36 @@ hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ponders.pw.toml"
+hash = "21ad99c8977e8ce8268c927c58a6a01408c5c0fdacee7d73882419ee9815d8cf"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tfmg-compat.pw.toml"
+hash = "fd9cfd7b3f10bdc3f46fcf91aa4fd24b769949480a9e773b59a7338ada817c0e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism_extra.pw.toml"
+hash = "88c2eef1dabe9118066204fbe29723e697a5bcefe80eed21fa791f2fee4820f1"
+metafile = true
+
+[[files]]
+file = "mods/mekanismmoremachine.pw.toml"
+hash = "709c730c5b25c0e9e85dca41d2b5fb0bdfee1b6feb0c0d6401410fa1f5780332"
+metafile = true
+
+[[files]]
 file = "mods/merequester.pw.toml"
 hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
 metafile = true
@@ -1453,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "c4c833c881e3a9b0de7333be6de247ccb78175f66640d69ac722dd402a95e782"
 metafile = true
 
 [[files]]
@@ -1733,11 +1788,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
-metafile = true
-
-[[files]]
-file = "mods/visual-recipe-editor.pw.toml"
-hash = "f04e82ec52462af3fb04d10dd40e638ac2d0c189bccef2bc0d17eb01f55dfbd1"
 metafile = true
 
 [[files]]
