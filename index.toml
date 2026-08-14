@@ -817,6 +817,10 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/client_scripts/emi/steel_removal.js"
+hash = "a523d59d0b0ec27c0bef455d5d684c79dd6708377e4dc815868b71cdf51424ea"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -837,8 +841,8 @@ file = "kubejs/server_scripts/food_mods/fruits.js"
 hash = "03d10e4bd5ba4b207bf39a3c8d2c959e7c0d3a9b017031d2cfe1246709e83ab7"
 
 [[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+file = "kubejs/server_scripts/stellaris/stellaris_steel.js"
+hash = "d85bebc3aa119a0b94f5a6974c383c0ffd0e1394287fa02377463ee0a8cf3156"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -912,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-kubejs.pw.toml"
-hash = "d2100277f0b2702f5edf2daadaa08d320f3fc9b16fb32ab24bfb81dc038db8c0"
+hash = "3ff31ccf2f44cc8633452764672fd7e43809313f7fc0f275082b957d84e8314b"
 metafile = true
 
 [[files]]
@@ -1427,12 +1431,17 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
@@ -1547,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/panopticon.pw.toml"
-hash = "8440fbb126cd870073fa60811695cb714373809894facc4b8dda34e3a04edf1a"
+hash = "de7cc60ae08192e2e39b18daea39b92374ffb12bd1a23c7bfbc399eaf9b15bd5"
 metafile = true
 
 [[files]]
@@ -1642,7 +1651,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonal-lets-do.pw.toml"
-hash = "ddd75a02997d5856de28bdaf36fc5d08a0d6d6d3401692650f13f04f09d5eaed"
+hash = "00395cb1d58a0532352b8741ec7da6c631cebd509cd8498820e4dee16be4800a"
 metafile = true
 
 [[files]]
@@ -1746,6 +1755,11 @@ hash = "d271fbf60a0ed229fdfa34cc6a50a9557b24ae56064b4eaaa63c4a3528904b1e"
 metafile = true
 
 [[files]]
+file = "mods/tannery-better-leather.pw.toml"
+hash = "e79f2c7e151ba0d565e1a6e31bb7380359acfbdd81b58c9129dd99b1fe0bce9c"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "fef2f8085bbdf6d398b02c87225ad9ccf9cc5d71edde13cd18e12a154764c84e"
 metafile = true
@@ -1817,7 +1831,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "49daa837ab97ab95e582d7ca094f56e5b3a04bf00248bc86e50ee8874cea87af"
+hash = "6817acd8f1a98c3e7c00e61507a9178fa9c7398b356f6e92704656a712157dcd"
 metafile = true
 
 [[files]]

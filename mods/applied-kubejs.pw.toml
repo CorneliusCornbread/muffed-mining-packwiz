@@ -1,6 +1,6 @@
 name = "Applied KubeJS"
 filename = "applied_kjs-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iCP3w3D8/versions/eZI0DoSP/applied_kjs-1.0.0.jar"

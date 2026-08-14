@@ -1,0 +1,13 @@
+name = "Tannery: Better Leather"
+filename = "tannery-1.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pEAux9qp/versions/q7y5s5bP/tannery-1.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1d751f3406bd250c17101b58b36ecd08899b827c754a5d176392bd89bee41fc407cc6c6e2af1a5363f344537525fc032f387721d55405bd8e78d94e1773c7e1a"
+
+[update]
+[update.modrinth]
+mod-id = "pEAux9qp"
+version = "q7y5s5bP"
