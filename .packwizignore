@@ -8,3 +8,14 @@ LICENSE
 
 # Ignore in dev datapacks folder
 datapacks-src/
+
+# Ignore client configs
+config/DistantHorizons.toml
+config/litematica/
+config/voicechat/username-cache.json
+config/voicechat/player-volumes.properties
+config/justzoom/
+*client.json
+*client.toml
+*client.properties
+*client.snbt

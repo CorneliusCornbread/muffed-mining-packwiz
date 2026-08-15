@@ -21,7 +21,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 # References:
 # - https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Thread.html#setPriority(int)
 # 
-threadPoolPriority = "default"
+threadPoolPriority = "4"
 # (Default: 11) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 

@@ -1,0 +1,15 @@
+# Generic client ignores
+*client.json
+*client.toml
+*client.properties
+*client.snbt
+
+# Ignore client specific litematica configs
+config/litematica/
+
+# Ignore voicechat configs and cache
+config/voicechat/username-cache.json
+config/voicechat/player-volumes.properties
+
+# Zoom
+config/justzoom/
