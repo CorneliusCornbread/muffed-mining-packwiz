@@ -28,7 +28,6 @@ config/litematica/
 config/voicechat/username-cache.json
 config/voicechat/player-volumes.properties
 config/justzoom/
-config/create_submarine_client_state.json
 config/particlerain/
 config/cccbridge/client.toml
 config/jade/

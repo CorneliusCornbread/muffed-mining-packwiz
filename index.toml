@@ -617,6 +617,10 @@ file = "config/create_submarine-common.toml"
 hash = "b38d4a268cf6c90c406b48dcd162313931171d23e446c31a7e4469499e2a31de"
 
 [[files]]
+file = "config/create_submarine_client_state.json"
+hash = "08b6e82ddd47db0d09dbbd7bebd4c0bc2a013ea2a1dc80e85ae28a19827fa374"
+
+[[files]]
 file = "config/createappliedkinetics-common.toml"
 hash = "545f867006cf66114cbe4f7edf1d3728f19872f8f978446e6d1bc04e3a2b6962"
 
