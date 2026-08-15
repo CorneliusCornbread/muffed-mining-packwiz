@@ -1,18 +1,4 @@
-# Ignore all .sh files
-*.sh
-
-# Ignore documentation files
-modlist.md
-README.md
-LICENSE
-
-# Ignore in dev datapacks folder
-datapacks-src/
-
-# Ignore temp files
-config/spark/tmp/
-
-# Ignore generic client configs
+# Generic client ignores
 *client.json
 *client.toml
 *client.properties
@@ -22,8 +8,10 @@ config/spark/tmp/
 # Ignore backups
 *.bak
 
-# Specific mod client configs
-config/DistantHorizons.toml
+# Ignore temp files
+config/spark/tmp/
+
+# Ignore client configs
 config/litematica/
 config/voicechat/username-cache.json
 config/voicechat/player-volumes.properties
