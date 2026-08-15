@@ -845,10 +845,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "b29366298d3cd30f9c31179ad26279b1369d3218d4b185c629aa0db8a4181385"
 
 [[files]]
-file = "config/justzoom/config.txt"
-hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
-
-[[files]]
 file = "config/kjsae2bridge-server.toml"
 hash = "0f4cb6f3b364b0fafc400dd3075fa0ef51a5ccc94188cd2ae71901141015b313"
 
@@ -1183,10 +1179,6 @@ hash = "2997d7a214fc95f0c8309ff3ea699555e28261f818d3718a5d5b906f2501df23"
 [[files]]
 file = "config/voicechat/category-volumes.properties"
 hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
-
-[[files]]
-file = "config/voicechat/player-volumes.properties"
-hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
 
 [[files]]
 file = "config/voicechat/translations.properties"
