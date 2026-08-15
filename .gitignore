@@ -3,13 +3,23 @@
 *client.toml
 *client.properties
 *client.snbt
+*client.ini
 
-# Ignore client specific litematica configs
+# Ignore backups
+*.bak
+
+# Ignore temp files
+config/spark/tmp/
+
+# Ignore client configs
 config/litematica/
-
-# Ignore voicechat configs and cache
 config/voicechat/username-cache.json
 config/voicechat/player-volumes.properties
-
-# Zoom
 config/justzoom/
+config/create_submarine_client_state.json
+config/cccbridge/client.toml
+config/jade/
+config/jei/
+config/fzzy_config/keybinds.toml
+config/chunksmith/worldgen-faults.txt
+config/chunksmith/tasks/

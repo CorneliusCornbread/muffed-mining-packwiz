@@ -9,13 +9,30 @@ LICENSE
 # Ignore in dev datapacks folder
 datapacks-src/
 
-# Ignore client configs
+# Ignore temp files
+config/spark/tmp/
+
+# Ignore generic client configs
+*client.json
+*client.toml
+*client.properties
+*client.snbt
+*client.ini
+
+# Ignore backups
+*.bak
+
+# Specific mod client configs
 config/DistantHorizons.toml
 config/litematica/
 config/voicechat/username-cache.json
 config/voicechat/player-volumes.properties
 config/justzoom/
-*client.json
-*client.toml
-*client.properties
-*client.snbt
+config/create_submarine_client_state.json
+config/particlerain/
+config/cccbridge/client.toml
+config/jade/
+config/jei/
+config/fzzy_config/keybinds.toml
+config/chunksmith/worldgen-faults.txt
+config/chunksmith/tasks/
