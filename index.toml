@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+hash = "6bee91c1e8d7c0b995795a06cf9c56accdbbd201c595c3aa8d759884d8fd0519"
 metafile = true
 
 [[files]]
@@ -1422,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "2f6a345c8124dd87b60c8ebbbaa35d9efa27c2d1947357b3247ab98fae9db210"
+hash = "e49a407ef99c50239782e9909b2af673d9346145a49de9440dd5fd378c71055a"
 metafile = true
 
 [[files]]
