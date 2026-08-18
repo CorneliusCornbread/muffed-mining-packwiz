@@ -10,4 +10,5 @@ LootJS.lootTables(event => {
 // Make drying racks mineable with axe
 ServerEvents.tags('block', event => {
     event.add('minecraft:mineable/axe', 'tannery:tanning_rack');
+    event.add('minecraft:mineable/axe', 'tannery:tanning_barrel');
 });
