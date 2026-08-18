@@ -1153,6 +1153,10 @@ file = "kubejs/server_scripts/stellaris/stellaris_steel.js"
 hash = "a35d2ebaaca3ab2b40515ee503874cfba533bc6d6c58b9f5f1bb3b9e3741c481"
 
 [[files]]
+file = "kubejs/server_scripts/tannery/table_fix.js"
+hash = "ba56bf355bcf03480dbbdccf25d0074266152890633ef5cb392fedaf145af64c"
+
+[[files]]
 file = "kubejs/server_scripts/tfmg/steel_tag_fix.js"
 hash = "65f8828d150d685cc3e7b038519c3a54e9132aef99e87fe4cb18503025489a69"
 
