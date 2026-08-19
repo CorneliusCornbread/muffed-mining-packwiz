@@ -1154,7 +1154,7 @@ hash = "a35d2ebaaca3ab2b40515ee503874cfba533bc6d6c58b9f5f1bb3b9e3741c481"
 
 [[files]]
 file = "kubejs/server_scripts/tannery/table_fix.js"
-hash = "48d3a9053ef3694499ac14cbe2881fdc19d2dab0851f9402727e2c0eabcfbe74"
+hash = "6af7784ffcbdc1bb292420fb9bb55d6994888a9650ec1607f281384851b743b4"
 
 [[files]]
 file = "kubejs/server_scripts/tfmg/steel_tag_fix.js"
@@ -2275,9 +2275,8 @@ hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
-file = "mods/tree-physics.pw.toml"
-hash = "9e19e3b808d9d7d064dd652025fc49432403aadf97987b12f74e54d0dd94873a"
-metafile = true
+file = "mods/treephysics-neoforge-1.21.1-2.3-FIX.jar"
+hash = "882473518094fb40692ade9289beff02bebfdd6099464dc6b94c41da2e554ffc"
 
 [[files]]
 file = "mods/txnilib.pw.toml"
