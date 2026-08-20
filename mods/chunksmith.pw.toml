@@ -1,13 +1,13 @@
 name = "Chunksmith"
-filename = "chunksmith-3.2.4+1.21.1-neoforge.jar"
+filename = "chunksmith-3.4.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/jlL63N6T/chunksmith-3.2.4%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/ebPO0Ao0/chunksmith-3.4.1%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "6693c95f3e40026a512a842785a6e85e6272d7b6ac82e572d4877baaec3a2a26d5a6eecbdd04ced9fd1fdfafb4323bf95b4a867cd1da4e011dcda676c24e8015"
+hash = "72cf021aedf57cf8a63836bcc9fdd86b9b60754a6d16f07093c62e4989453fc3d3aae43fe079f9fa8dcfbff4d7f232613705c88c2e410fce700c904ad0d0a5e4"
 
 [update]
 [update.modrinth]
 mod-id = "4BeAEBIb"
-version = "jlL63N6T"
+version = "ebPO0Ao0"

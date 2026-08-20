@@ -1,13 +1,13 @@
 name = "Straw Bed Backport"
-filename = "strawbedbackport-1.0.4.jar"
+filename = "strawbed-neoforge-1.0.5+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1CtqTjfI/versions/Jr1aoNcf/strawbedbackport-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/1CtqTjfI/versions/3Pr2YcEN/strawbed-neoforge-1.0.5%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "4fa598c0ad12a1e1ae2aba3811c9aedddfe7cef6ac64a405879bcf4a636b91219ce7145cb2acbc92d2fed75051254afa80fda889f0c117cba913acf087f47d4c"
+hash = "d9c8043759b92122cf85ebb7b0d4b19a98dbfa4e8d526fa414f6000a1daf9e7458bb036415e1d32b34585fdf8dd31d4bc00eb0374d913d7a1d8b9f1ed7df88bf"
 
 [update]
 [update.modrinth]
 mod-id = "1CtqTjfI"
-version = "Jr1aoNcf"
+version = "3Pr2YcEN"

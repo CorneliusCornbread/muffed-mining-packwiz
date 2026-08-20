@@ -1,13 +1,13 @@
 name = "Create: TFMG - Stellaris Compat"
-filename = "tfmg_stellaris_compat-1.2.0.jar"
+filename = "tfmg_stellaris_compat-1.2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x6WYN4Ks/versions/A5dRrMY7/tfmg_stellaris_compat-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/x6WYN4Ks/versions/3bN2GRsd/tfmg_stellaris_compat-1.2.0.1.jar"
 hash-format = "sha512"
-hash = "1795b64d5bdf0d8d9134382216b3955aa6fea210ad7e448a488654688b777676967fb1a1fa803d759aec0398dcde014fd4817ba77dda427b90adfb7414bf7121"
+hash = "ec03fdb96c76a2616d31711b8fd7b6b1168d908e8cacf44f6a2703fe4cee1232d10f414cb4b90ad4623bdff20066b7b8dfd10e5e1a15365149033882a3b1b2ba"
 
 [update]
 [update.modrinth]
 mod-id = "x6WYN4Ks"
-version = "A5dRrMY7"
+version = "3bN2GRsd"

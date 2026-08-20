@@ -1,13 +1,13 @@
 name = "Ingenium API"
-filename = "ingeniumapi-1.0.1-NEOFORGE-MC-1.21.1.jar"
+filename = "ingeniumapi-1.0.2-NEOFORGE-MC-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bhnA6sV8/versions/xNfRxmbR/ingeniumapi-1.0.1-NEOFORGE-MC-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/bhnA6sV8/versions/gMKN8rgX/ingeniumapi-1.0.2-NEOFORGE-MC-1.21.1.jar"
 hash-format = "sha512"
-hash = "5536e2f742d4f5481a8e0098d4f251f2ec7f998cfc29364d3d119c8322ed1274c719d298defe3f6a24c5924f0e0eaabe44630eff9d9a973d56f5c2dfe168f890"
+hash = "a9ba5e1d612ad3a153bc2b63ea1872119d9e5c5111d5f853c52487af5aec8a40b2a1107cfe79c9879fc925bd3b2a56b01363444d06c9525a3516885d4f4fa30e"
 
 [update]
 [update.modrinth]
 mod-id = "bhnA6sV8"
-version = "xNfRxmbR"
+version = "gMKN8rgX"
