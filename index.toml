@@ -2220,6 +2220,11 @@ hash = "06094f9d641eca3fad232ff9e2c615e323a9a689e15b2c558ebe33a27c59f4c8"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
 file = "mods/straw-bed-backport.pw.toml"
 hash = "122faa785596b8d6333ca83739d1a8f7b5a941709dd9c758839203009ba63a0e"
 metafile = true
