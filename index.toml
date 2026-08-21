@@ -1611,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
 
 [[files]]
@@ -1776,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow-reloaded.pw.toml"
-hash = "eb1b9ec8dd0bb78a8e6913977e93cc7e8ae6355d82bc8471c08d3fd4fc355cb1"
+hash = "72474daf9f44d30abcafe68564fdda1ace13b39aed5b956c6bb5867394c61a2f"
 metafile = true
 
 [[files]]
