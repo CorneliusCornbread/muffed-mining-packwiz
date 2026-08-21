@@ -1210,11 +1210,6 @@ hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
 metafile = true
 
 [[files]]
-file = "mods/animal_feeding_trough.pw.toml"
-hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
@@ -1410,6 +1405,11 @@ hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
@@ -1530,6 +1530,11 @@ hash = "30cbd4aba5159b2ccd841df3e870f5686e3c70a752eb8a84da2e410ffcc80ac2"
 metafile = true
 
 [[files]]
+file = "mods/create-schematic-upload.pw.toml"
+hash = "ea5f2f9ff9277d91b24fe642f78611b00d60b6a03eed9c7388f2bd84d07855b6"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
@@ -1570,6 +1575,11 @@ hash = "38af39af59ff98bab6c409858bb0777fcd4990b88206f4947f260fbe2efbded2"
 metafile = true
 
 [[files]]
+file = "mods/darcenos-minecarts.pw.toml"
+hash = "cdb20a3f1ebe1014d65b19d33357a9ac5f93e06b497b62a1ee7978e3e517cc7a"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
@@ -1600,8 +1610,18 @@ hash = "406fd938da34e8d3beae9a7c82eed3ef5d20053a9d9ab4c5b76357e39e58bbc5"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -1632,6 +1652,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "e7e24f7fa2aa5971660befc844caac9d06952bc6b4fd4fe80bdb6e5f371d821b"
 metafile = true
 
 [[files]]
@@ -1682,11 +1707,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "962f814c2d04b4e878ef6241c56658b4b71ef513fc1c4963ddb22c0fe17a1de9"
-metafile = true
-
-[[files]]
-file = "mods/forgematica.pw.toml"
-hash = "451c96f6fc12e0af29ddb579b69aa085420e638b23bbf24526997e9c7fb69dc7"
 metafile = true
 
 [[files]]
@@ -1752,6 +1772,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow-reloaded.pw.toml"
+hash = "eb1b9ec8dd0bb78a8e6913977e93cc7e8ae6355d82bc8471c08d3fd4fc355cb1"
 metafile = true
 
 [[files]]
@@ -1840,6 +1865,11 @@ hash = "78027a089e1564f99f8e04994db7037f2d6114d9a4ef8908363006195c6fbb41"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
 metafile = true
@@ -1882,11 +1912,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "2d8016aab6d4b3410b7a35003aa9d778dad45379c89dc9490cd6c3f3bcec9f6f"
-metafile = true
-
-[[files]]
-file = "mods/mafglib.pw.toml"
-hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
@@ -2302,6 +2327,16 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "e32edf3089c8b5c395fb9665f415254dc0e627dad6ab0dd26d85168b665aa024"
 metafile = true
 
 [[files]]
