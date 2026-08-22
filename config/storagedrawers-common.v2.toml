@@ -21,6 +21,19 @@
 	# Change this to uniformly increase all storage amounts
 	baseStackStorage = 1
 
+	# Configuration around the auto compacting feature
+	[Drawers.Compacting]
+		# 
+		# Compacting drawers require 2-way 2x2 or 3x3 recipes to associate items.
+		# Add additional rules here in the form: <big_item>, <small_item>, <amount>
+		compactingRules = ["minecraft:clay, minecraft:clay_ball, 4", "create:zinc_block, create:zinc_ingot, 9", "create:zinc_ingot, create:zinc_nugget, 9"]
+		# Whether compacting function is supported.  Disabling does not remove the block.
+		enabled = true
+		# 
+		# Enables additional rules for some Minecraft items, like quartz, brick, and clay.
+		# See logs for full set of rules that get added.
+		enableExtraCompactingRules = true
+
 	# Configuration for individual drawer configurations.
 	# Units are the number of stacks a slot holds before the base stack storage value is multiplied.
 	[Drawers.Blocks]
@@ -48,19 +61,6 @@
 
 		[Drawers.Blocks.HalfCompacting]
 			unitsPerSlot = 16
-
-	# Configuration around the auto compacting feature
-	[Drawers.Compacting]
-		# Whether compacting function is supported.  Disabling does not remove the block.
-		enabled = true
-		# 
-		# Enables additional rules for some Minecraft items, like quartz, brick, and clay.
-		# See logs for full set of rules that get added.
-		enableExtraCompactingRules = true
-		# 
-		# Compacting drawers require 2-way 2x2 or 3x3 recipes to associate items.
-		# Add additional rules here in the form: <big_item>, <small_item>, <amount>
-		compactingRules = ["minecraft:clay, minecraft:clay_ball, 4"]
 
 	# Configuration around detached drawers, which are individual drawer slots pulled from a drawer block.
 	[Drawers.Detached]
