@@ -1070,7 +1070,7 @@ hash = "e5b4aeac857b0286a978cd5627ecb3c32f5665666d59bda5573085434f9f7e53"
 
 [[files]]
 file = "config/storagedrawers-common.v2.toml"
-hash = "48d1f1afc6db387c64e44943075c3399f41ae067739fe4a34df7c8d57b94937d"
+hash = "742cf3c92eb3805d72bd74aa8e2f9075290e7025642a177cbd536bdd374a819a"
 
 [[files]]
 file = "config/structurize-server.toml"
