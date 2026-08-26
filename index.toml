@@ -1632,6 +1632,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/current-game-music-track.pw.toml"
+hash = "e6fe3e45788dfd0394918c3f445053f8814486284d55fe04b8136fed4d8145b8"
+metafile = true
+
+[[files]]
 file = "mods/cushions-backport.pw.toml"
 hash = "38af39af59ff98bab6c409858bb0777fcd4990b88206f4947f260fbe2efbded2"
 metafile = true
@@ -2414,6 +2419,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
 hash = "e32edf3089c8b5c395fb9665f415254dc0e627dad6ab0dd26d85168b665aa024"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "15f45effca82617edec83f72cdda0852746a354c2158cc2277ae3abbc72dcd24"
 metafile = true
 
 [[files]]
