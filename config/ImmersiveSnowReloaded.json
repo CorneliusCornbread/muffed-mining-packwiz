@@ -10,6 +10,9 @@
     "minecraft:rail",
     "minecraft:powered_rail",
     "minecraft:detector_rail",
-    "minecraft:activator_rail"
+    "minecraft:activator_rail",
+    "minecraft:spruce_sapling",
+    "minecraft:oak_sapling",
+    "minecraft:saplings"
   ]
 }

@@ -26,7 +26,7 @@ hash = "ff23d956c64ed19edcede3d44e11feb02ee40fec7940241791a68e643e9de4e5"
 
 [[files]]
 file = "config/ImmersiveSnowReloaded.json"
-hash = "4e915b2485df4be7cea23106872d7adfac99d3734a9289619371333d12e517ca"
+hash = "514c5a68fd4fb9189b6b061eed8dad8e9bd4855875b1672abe8e3b69e3b8a109"
 
 [[files]]
 file = "config/Mekanism-Extras/general.toml"
