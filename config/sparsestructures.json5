@@ -69,8 +69,12 @@
       "factor": 1
     },
     {
-      "structure": "minecraft:minecraft:villages",
+      "structure": "minecraft:villages",
       "factor": 1.6
+    },
+    {
+      "structure": "minecraft:nether_complexes",
+      "factor": 1
     },
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)

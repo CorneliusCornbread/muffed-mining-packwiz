@@ -26,7 +26,7 @@ hash = "ff23d956c64ed19edcede3d44e11feb02ee40fec7940241791a68e643e9de4e5"
 
 [[files]]
 file = "config/ImmersiveSnowReloaded.json"
-hash = "22f0c505ec052ff05172db06fdd0c6906cbeeef34e3b07cce9400484ce135d62"
+hash = "4e915b2485df4be7cea23106872d7adfac99d3734a9289619371333d12e517ca"
 
 [[files]]
 file = "config/Mekanism-Extras/general.toml"
@@ -1062,7 +1062,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "245afe7e3fe8c8a831db697539876fd03a6bba07f689dcbb9bef5ec0d3e1b031"
+hash = "ddcc06c26cc277bb507fba86c328d5ed80c27dd24aa9780b9abffe5af3355407"
 
 [[files]]
 file = "config/stellaris-config.json"
@@ -1167,6 +1167,14 @@ hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 [[files]]
 file = "config/zfastnoise.mixin.properties"
 hash = "3e20431f46602debd30e63378ce97afa7fdb5d8e61dc5373ba21c9f39b73b67b"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "6d87bdcabcbfd2f1d5c05865368789b18c0e22acbecec38b3232a5872a7f72d7"
+
+[[files]]
+file = "configureddefaults/shaderpacks/ComplementaryUnboundMuffedMining_r5.zip"
+hash = "2251b5c33135b81ec4fc1432839c87904fd9028c7f4b767d0871857f1b0d9882"
 
 [[files]]
 file = "datapacks/muffed_mining.zip"
@@ -1472,6 +1480,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
@@ -1524,6 +1537,11 @@ metafile = true
 [[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+metafile = true
+
+[[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "c4c513aea9433b96ff7e1b33db29914020c43786e5d3fd7b79829b2c098bf7e9"
 metafile = true
 
 [[files]]
@@ -1714,6 +1732,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "6fb320d3ab2a4b3ea9458c60a1fb1d0ceadebe4cceb17291db83699ec4bc7f3d"
 metafile = true
 
 [[files]]
@@ -2102,6 +2125,11 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/panoptic.pw.toml"
 hash = "3cdaaa6a08310ee5ca04f9cc6f5752fd5d3b918538732ef7a7a36bd9d3998361"
 metafile = true
@@ -2379,6 +2407,16 @@ metafile = true
 [[files]]
 file = "mods/tfmg-stellaris-compat.pw.toml"
 hash = "b295bc9f639c297146ec3d4f5103d1edc25849eadedaab338440cbba0d6327f1"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-overhaul.pw.toml"
+hash = "01d171381ab3e6ab7de5e1467540e8e7e819ae2a76bdfb9187c5d6cbc2362ad0"
 metafile = true
 
 [[files]]
