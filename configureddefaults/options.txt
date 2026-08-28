@@ -350,7 +350,7 @@ key_key.createrailgrinding.catch:key.keyboard.space:SHIFT
 key_key.createrailgrinding.grind_jump:key.keyboard.space
 key_key.createrailgrinding.grind_crouch:key.keyboard.left.shift
 key_key.minecolonies.toggle_goggles:key.keyboard.unknown
-key_justzoom.keybinds.keybind.zoom:key.keyboard.p
+key_justzoom.keybinds.keybind.zoom:key.keyboard.c
 key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.7098768625827815

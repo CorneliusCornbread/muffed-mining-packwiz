@@ -1146,7 +1146,7 @@ hash = "8c08eac4077cfa9822f01ccc74748370ac6a5fcfa496680e83089b1d3470031f"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "fdd6111c0f18807c7dd94fda23c0afb3871531536b3543836deccff3efbab33f"
+hash = "eada184abe995c914db74356eb6201fa4f255236e56aa56d561f945fe6395c05"
 
 [[files]]
 file = "config/windtunnel-server.toml"
@@ -1170,7 +1170,7 @@ hash = "3e20431f46602debd30e63378ce97afa7fdb5d8e61dc5373ba21c9f39b73b67b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "5f0428a65cd0f2b59761cb2c8616818bf8903ab04c9fa6b2dd256c7d41119e6a"
+hash = "6d5539292a4d3fd1fb4b1b3a8f50555d3ce200bf8ee022d5ef4a0ea5e90dc169"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryUnboundMuffedMining_r5.zip"
@@ -1337,6 +1337,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
 metafile = true
 
 [[files]]
@@ -1860,6 +1865,11 @@ hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
 file = "mods/iglee-library.pw.toml"
 hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
 metafile = true
@@ -2012,6 +2022,16 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "2d8016aab6d4b3410b7a35003aa9d778dad45379c89dc9490cd6c3f3bcec9f6f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
 metafile = true
 
 [[files]]
@@ -2207,6 +2227,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
