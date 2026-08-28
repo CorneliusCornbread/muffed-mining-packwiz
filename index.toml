@@ -542,7 +542,7 @@ hash = "7ac50902b95bc24e893cafa24b10fe7252f7d5e7668e8f418de5cd366a0fc2fb"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "8e367f5171aabc7337f94a1b70045bad620ef99ce28c6d42708806af561ad249"
+hash = "1f42106da034597e5a81425affae267863f90b01eefcfa0fa19427b3b7f71f81"
 
 [[files]]
 file = "config/chefsdelight-common.toml"
