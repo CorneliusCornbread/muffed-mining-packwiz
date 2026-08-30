@@ -1665,6 +1665,11 @@ hash = "38af39af59ff98bab6c409858bb0777fcd4990b88206f4947f260fbe2efbded2"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/darcenos-minecarts.pw.toml"
 hash = "cdb20a3f1ebe1014d65b19d33357a9ac5f93e06b497b62a1ee7978e3e517cc7a"
 metafile = true
@@ -1712,6 +1717,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/dyson-cube-project.pw.toml"
+hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
 metafile = true
 
 [[files]]
@@ -2432,6 +2442,11 @@ metafile = true
 [[files]]
 file = "mods/tfmg-stellaris-compat.pw.toml"
 hash = "b295bc9f639c297146ec3d4f5103d1edc25849eadedaab338440cbba0d6327f1"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "55df9531ad6c2db9a814bdb32c0cac04b4bc28d0ed720086d18655a0b4a622ff"
 metafile = true
 
 [[files]]
