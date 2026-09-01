@@ -149,10 +149,6 @@ file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
 [[files]]
-file = "config/alexscaves-general.toml"
-hash = "6858891962ef4912f82743ca313c95ec83b59064dcac0e4ff7121162ea642db9"
-
-[[files]]
 file = "config/alexscaves_biome_generation/.version"
 hash = "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
 
@@ -538,7 +534,7 @@ hash = "7ac50902b95bc24e893cafa24b10fe7252f7d5e7668e8f418de5cd366a0fc2fb"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "1f42106da034597e5a81425affae267863f90b01eefcfa0fa19427b3b7f71f81"
+hash = "c679dc2fc5be0f563005771cfc4fa465f0d3af89644beee35f096f6b8e06e474"
 
 [[files]]
 file = "config/chefsdelight-common.toml"
@@ -1078,7 +1074,7 @@ hash = "5e0b96aac297e8196265cbf573b611ed42cb4fee9a0275a72b0c84656d6a5cf3"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "6df130fe21550eef513805d6a33dd0241a800c3a6be171c31b2ec98cca9d84cc"
+hash = "933cc875d2d7218e9cfa0d4e20d3bdeaaadd04af838f9e1d1e5abb879beb5b16"
 
 [[files]]
 file = "config/tectonic.json"
@@ -1248,11 +1244,6 @@ metafile = true
 [[files]]
 file = "mods/aeronauticswind-tunnel.pw.toml"
 hash = "a04715d267cf8b26e8e39094967587574effd8f47e0aef5fec4aab7a30ac59ed"
-metafile = true
-
-[[files]]
-file = "mods/alexs-caves-(unofficial-port).pw.toml"
-hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
 
 [[files]]
@@ -2198,6 +2189,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "998704b5cdd52b78a94a5088c5e90b3a9318f0fd5435084da8ae6e9f6fc2671f"
+metafile = true
+
+[[files]]
+file = "mods/polymorph_plus.pw.toml"
+hash = "4b3012b5d80b0befdd4dbd9d3504fe1ea7516b76b2b7344c7f68cc7a7befcc17"
 metafile = true
 
 [[files]]
