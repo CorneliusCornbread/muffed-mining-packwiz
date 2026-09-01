@@ -25,10 +25,6 @@ file = "config/EvolvedMekanism/general.toml"
 hash = "ff23d956c64ed19edcede3d44e11feb02ee40fec7940241791a68e643e9de4e5"
 
 [[files]]
-file = "config/ImmersiveSnowReloaded.json"
-hash = "514c5a68fd4fb9189b6b061eed8dad8e9bd4855875b1672abe8e3b69e3b8a109"
-
-[[files]]
 file = "config/Mekanism-Extras/general.toml"
 hash = "a4c36680a465460c931bbf321821590bd81ce81302a6f9332b1eaae030cb336b"
 
@@ -1887,11 +1883,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow-reloaded.pw.toml"
-hash = "72474daf9f44d30abcafe68564fdda1ace13b39aed5b956c6bb5867394c61a2f"
 metafile = true
 
 [[files]]
