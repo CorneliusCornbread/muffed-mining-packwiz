@@ -1,13 +1,13 @@
 name = "Apothic-Enchanting"
-filename = "ApothicEnchanting-1.21.1-1.6.1.jar"
+filename = "ApothicEnchanting-1.21.1-1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pL8MtgqY/versions/56c0M28v/ApothicEnchanting-1.21.1-1.6.1.jar"
+url = "https://cdn.modrinth.com/data/pL8MtgqY/versions/2vH7csNR/ApothicEnchanting-1.21.1-1.6.2.jar"
 hash-format = "sha512"
-hash = "56313ef59fe7c991f5d1fcbea1af83bc4f505492987f84cb060ab7b6e6e3ef62c5dd2edf9eae84b9dd2ced41b38a5143c2159b6ad45a3212cd17886d252c73d9"
+hash = "e03864db8d32a60116dd9b870e7ba7f62564a85180c6b35cfd486deffef4c586254c527c45ab3c0750a4224d732d2c389d2ae84dbfae99ca7f70ee2ba9e7f9c6"
 
 [update]
 [update.modrinth]
 mod-id = "pL8MtgqY"
-version = "56c0M28v"
+version = "2vH7csNR"
