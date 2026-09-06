@@ -24,7 +24,7 @@
 	#Maximum total snow layers allowed per column (8 layers = 1 block). Default 24 = 3 blocks.
 	# Default: 24
 	# Range: 0 ~ 512
-	maxSnowAccumulationLayers = 24
+	maxSnowAccumulationLayers = 16
 
 [seasonSync]
 	#Lock seasons to current Canadian calendar months (Eastern time).

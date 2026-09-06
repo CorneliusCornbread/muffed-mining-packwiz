@@ -966,11 +966,11 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "491f78ec45fc280395d9b5108a9f7d6257e6a2ae276f9a8be3cbd22fa91f3512"
+hash = "969e3e2507380e047f6089be861d885d894d2916b910c79ffa2680c58184e52f"
 
 [[files]]
 file = "config/sereneseasonsplus-common.toml"
-hash = "d5b4455142dcff933b1076cdbd5a5038168d8a79d96bf4517fcca7889aad0ff7"
+hash = "54566e3c90e34b38cbff6be4d98ea3b3e4e4ea1e32ca41baf9a12d4696aac1ea"
 
 [[files]]
 file = "config/shippy_ships-common.toml"
@@ -2152,6 +2152,11 @@ hash = "06007f69b1ea7adb263b848a26078c5e7fdf2539a8b8328864054012df15c0f2"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/no-more-potion-particles.pw.toml"
 hash = "00df9cc3c957a6b055e9ed031b7f393b71f5071822c64bf0cd31b3fcbc14c688"
 metafile = true
@@ -2249,6 +2254,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
+file = "mods/random-fishing-crates.pw.toml"
+hash = "8696921c7f0fdb53e130346f4265c050be420a2f581e175a8a52266bfed6eb06"
 metafile = true
 
 [[files]]

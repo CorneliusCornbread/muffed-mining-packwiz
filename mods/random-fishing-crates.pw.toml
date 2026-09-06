@@ -1,0 +1,13 @@
+name = "Random Fishing Crates"
+filename = "[1.21.x] Fishing Crates v1.4.5a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qP4p5QtZ/versions/ZxcoHPpV/%5B1.21.x%5D%20Fishing%20Crates%20v1.4.5a.jar"
+hash-format = "sha512"
+hash = "aab4d4b4f837dde34989fbd4b74b86447d32f4690f34d61957272654ef3b8b3f0093c785db431133f7c25aa849db5db6fc906f62eaf134df8da1fec6659fbf32"
+
+[update]
+[update.modrinth]
+mod-id = "qP4p5QtZ"
+version = "ZxcoHPpV"
