@@ -1074,7 +1074,7 @@ hash = "5e0b96aac297e8196265cbf573b611ed42cb4fee9a0275a72b0c84656d6a5cf3"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "933cc875d2d7218e9cfa0d4e20d3bdeaaadd04af838f9e1d1e5abb879beb5b16"
+hash = "081b917fce5c66535734041711903fd0bd7ce3f04d29b05b06eadafead81220a"
 
 [[files]]
 file = "config/tectonic.json"
