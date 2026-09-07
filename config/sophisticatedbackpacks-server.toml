@@ -513,19 +513,19 @@
 		#Maximum slot cost a mob may have to be captured by the basic mob catcher. This is a hard limit, not a clamp.
 		# Default: 18
 		# Range: 1 ~ 120
-		basicMaxSlotCost = 18
+		basicMaxSlotCost = 9
 		#Maximum slot cost a mob may have to be captured by the advanced mob catcher. This is a hard limit, not a clamp.
 		# Default: 72
 		# Range: 1 ~ 120
-		advancedMaxSlotCost = 72
+		advancedMaxSlotCost = 36
 		#Multiplier applied to animal mob slot cost.
 		# Default: 1.0
 		# Range: 0.1 ~ 10.0
-		animalMultiplier = 1.0
+		animalMultiplier = 0.4
 		#Multiplier applied to hostile mob slot cost.
 		# Default: 2.0
 		# Range: 0.1 ~ 10.0
-		hostileMultiplier = 2.0
+		hostileMultiplier = 0.75
 		#When true, mobs that expose inventories or container menus are not capturable.
 		disallowInventoryEntities = false
 		#Entity types or entity tags prefixed with # that cannot be captured.

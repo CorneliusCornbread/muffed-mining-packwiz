@@ -534,7 +534,7 @@ hash = "7ac50902b95bc24e893cafa24b10fe7252f7d5e7668e8f418de5cd366a0fc2fb"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "c679dc2fc5be0f563005771cfc4fa465f0d3af89644beee35f096f6b8e06e474"
+hash = "d93719f17e1d619ac6aed29e6d09e21ffe6838b3d95872df2bf4b9b28c731031"
 
 [[files]]
 file = "config/chefsdelight-common.toml"
@@ -1042,7 +1042,7 @@ hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "c2e027ceeb222d2e907ce6104e44c2f9069f1de5b5ead3d1c22672719f4b1893"
+hash = "55354edb00f1d4e617b67ea5225c838e0ed2972db13f0cd069add6790555d00a"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -1162,7 +1162,7 @@ hash = "3e20431f46602debd30e63378ce97afa7fdb5d8e61dc5373ba21c9f39b73b67b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "201dcc0beb41540ac446f4aff180e97ebf0f22769519f51c94c29ce20ded53b0"
+hash = "5ae627f5cdb6f3305dcbfd23f31961117249cd857f7d918c66a6cbaad7655f06"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryUnboundMuffedMining_r5.zip"
@@ -1197,8 +1197,20 @@ file = "kubejs/config/web_server.json"
 hash = "b3b90377736f8a1e74d38b003f4b6aeeadb8e46cff852c83d93684a06e5ad600"
 
 [[files]]
+file = "kubejs/server_scripts/conflict_recipes/bottles.js"
+hash = "a02aae53726c2a81bc389c0f0723977b692e9ce751a000435b2e7af0df3be42e"
+
+[[files]]
+file = "kubejs/server_scripts/food_mods/beetroot.js"
+hash = "098860f8ce365a1e756ca88f447ec0ee945bef4fdf5fbdaf2d33d17d8f46f241"
+
+[[files]]
 file = "kubejs/server_scripts/food_mods/fruits.js"
-hash = "03d10e4bd5ba4b207bf39a3c8d2c959e7c0d3a9b017031d2cfe1246709e83ab7"
+hash = "f672bfd19be35a12f00a80003c495655a5aec07f3dcdabd59c24f28c5a7ad708"
+
+[[files]]
+file = "kubejs/server_scripts/food_mods/milk.js"
+hash = "976d26dfc8ebfb0597b364a5a71cbda5f5d71d1f4cdb65fba57a5e56d38c66e3"
 
 [[files]]
 file = "kubejs/server_scripts/stellaris/stellaris_steel.js"

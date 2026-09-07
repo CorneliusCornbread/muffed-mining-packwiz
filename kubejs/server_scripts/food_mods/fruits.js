@@ -22,6 +22,6 @@ ServerEvents.tags('item', event => {
 
     // Cherries are not berries
     event.remove('forge:berries', 'vinery:cherry')
-})
 
-console.info('Updated vinery tags successfully')
+    console.info('Updated vinery tags successfully')
+})
