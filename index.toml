@@ -181,6 +181,30 @@ file = "config/alltheleaks.json"
 hash = "2437057bda7e53d91e7a8c400da308a8d848fbdcc80ed845a9c8dbdabd071482"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "a2b993fce12ea6a2b9bd0e95ba0baa5d4655b5ece58eb32eeee1cbb7bbe03b14"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "767747e945e7292b5039045d6412b7cfb710d00718803cf8c480734f89f1bd52"
+
+[[files]]
 file = "config/antique-atlas.toml"
 hash = "e20d3a1095edcba46e4c42c82740ea77f375fa9cf7bff726cf762af800b8c7ea"
 
@@ -215,14 +239,6 @@ hash = "eac26e06d703a47087cd69ea21d98ab48075556b8dbcf63c8fb65097947fc67f"
 [[files]]
 file = "config/astrocraft.json"
 hash = "16dbd4a40fb6acc0d2ceca70b0a92d25dc273fcace34b6a7c58f70d298fe8225"
-
-[[files]]
-file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "f376c7b28c7347e509e55a8a31e8a0c954eea3dd1c7cf198fbeedc51d0114b4d"
-
-[[files]]
-file = "config/asyncparticles/asyncparticles.json"
-hash = "9aac75e0d85059a008a0d64f74e731c8aae75df903d7b347ec1bffa7c815afc0"
 
 [[files]]
 file = "config/attributefix/apothic_attributes/armor_pierce.json"
@@ -941,6 +957,14 @@ file = "config/quark-common.toml"
 hash = "e0ce9e4388248aae1f1089bcf432f5a8f9c63bab75d6771e6f0ddb2d72791180"
 
 [[files]]
+file = "config/reliable_remover.json"
+hash = "e4474a719a6ef8f1570ab8a08bd84e15f8668932253f08b61fba599de1370d8c"
+
+[[files]]
+file = "config/reliable_remover/neoecoae_aluminum.json"
+hash = "82e92b8c0eaa8129fd20520f9fa73f8ff1b80dd0b9ed2953435dace3533bdf1e"
+
+[[files]]
 file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
@@ -1034,7 +1058,7 @@ hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "config/solonion.json"
-hash = "105d00b0b515d8fff493d00768d95cc41d35d4ac24e08b075eebe2fae16b8f9f"
+hash = "786fbf6cf7738b131c18893f7ca9e0a5a7ddb4cb22894accdcbcce6cf81b8a68"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1170,7 +1194,7 @@ hash = "2251b5c33135b81ec4fc1432839c87904fd9028c7f4b767d0871857f1b0d9882"
 
 [[files]]
 file = "datapacks/muffed_mining.zip"
-hash = "1ea8bdef849010e56b8a5a20353b7fb8d3ccc1b0900ac9cb4f2e4e81bab833e5"
+hash = "76e440fd320bdb94bc26d62fcbad92456cd8b11ed45f0f5398849a8e95f8bb23"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1329,8 +1353,8 @@ hash = "ca03f3d49a4b330ce431a9bfa4aa6b9ef879fd2983d944e9c3a81752ca258887"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "af5bc55ea66d0e71f85b1f8966e24f1f58d8043e94ed0e89eb52deda43770016"
+file = "mods/asynclogger.pw.toml"
+hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
 metafile = true
 
 [[files]]
@@ -1779,6 +1803,11 @@ hash = "6fb320d3ab2a4b3ea9458c60a1fb1d0ceadebe4cceb17291db83699ec4bc7f3d"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
@@ -1929,6 +1958,11 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "daa009c801fc4d977941a3dd476f7ef006852e175f1186bd73bc45d6a1441115"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5ff44ebf640ca52af6a0d01de967dd96aa131d19859aa52152533bc4ba88d5aa"
 metafile = true
@@ -1936,6 +1970,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/katters-structures.pw.toml"
+hash = "42c58ed0f48c06269e4892bdfe20fdf8b21a01a3c640a24b967c2cd3a108beba"
 metafile = true
 
 [[files]]
@@ -2035,7 +2074,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
+hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
 
 [[files]]
@@ -2189,6 +2228,11 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/panoptic.pw.toml"
 hash = "3cdaaa6a08310ee5ca04f9cc6f5752fd5d3b918538732ef7a7a36bd9d3998361"
 metafile = true
@@ -2196,6 +2240,11 @@ metafile = true
 [[files]]
 file = "mods/panopticon.pw.toml"
 hash = "de7cc60ae08192e2e39b18daea39b92374ffb12bd1a23c7bfbc399eaf9b15bd5"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
@@ -2276,6 +2325,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "bcd024534d03a03adf149c11dad52024f2fc81a4790cd941127de3f64f1250fc"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "1ecd01ec1fa6e2e983f0a3c07504d4365a111c25addf95ee3ff01baab3be598f"
 metafile = true
 
 [[files]]

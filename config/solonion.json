@@ -1,6 +1,6 @@
 {
   "foodItems": {
-    "entries": [],
+    "entries": ["minecraft:barrel", "minecraft:chest"],
     "isWhitelist": false
   },
   "trackCount": 32,

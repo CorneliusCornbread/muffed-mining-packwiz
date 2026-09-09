@@ -2,7 +2,8 @@
   "type": "neoforge:remove_features",
   "biomes": "#minecraft:is_end",
   "features": [
-    "neoecoae:ore_aluminum_end"
+    "neoecoae:ore_aluminum",
+    "neoecoae:ore_aluminum_small"
   ],
   "steps": [
     "underground_ores"

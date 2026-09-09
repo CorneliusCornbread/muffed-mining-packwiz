@@ -1,0 +1,43 @@
+[
+  {
+    "action": "remove_inventory",
+    "items": [
+      "neoecoae:raw_aluminum_block",
+      "neoecoae:raw_aluminum_ore",
+      "neoecoae:aluminum_ore"
+    ]
+  },
+  {
+    "action": "remove_creative",
+    "items": [
+      "neoecoae:raw_aluminum_block",
+      "neoecoae:raw_aluminum_ore",
+      "neoecoae:aluminum_ore"
+    ],
+    "effects": []
+  },
+  {
+    "action": "remove_storage",
+    "items": [
+      "neoecoae:raw_aluminum_block",
+      "neoecoae:raw_aluminum_ore",
+      "neoecoae:aluminum_ore"
+    ]
+  },
+  {
+    "action": "remove_chest_loot",
+    "items": [
+      "neoecoae:raw_aluminum_block",
+      "neoecoae:raw_aluminum_ore",
+      "neoecoae:aluminum_ore"
+    ]
+  },
+  {
+    "action": "remove_info",
+    "items": [
+      "neoecoae:raw_aluminum_block",
+      "neoecoae:raw_aluminum_ore",
+      "neoecoae:aluminum_ore"
+    ]
+  }
+]
