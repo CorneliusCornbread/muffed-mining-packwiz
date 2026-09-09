@@ -1058,7 +1058,7 @@ hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "config/solonion.json"
-hash = "786fbf6cf7738b131c18893f7ca9e0a5a7ddb4cb22894accdcbcce6cf81b8a68"
+hash = "b2fec0cd290509791adb5e1c484db297b18e325a6a13083bc680b9e9ab122bb7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"

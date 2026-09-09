@@ -1,6 +1,9 @@
 {
   "foodItems": {
-    "entries": ["minecraft:barrel", "minecraft:chest"],
+    "entries": [
+      "{block:\"minecraft:barrel\",id:\"block\"}",
+      "{block:\"minecraft:chest\",id:\"block\"}"
+    ],
     "isWhitelist": false
   },
   "trackCount": 32,
