@@ -11,6 +11,7 @@ datapacks-src/
 
 # Ignore temp files
 config/spark/tmp/
+config/almostunified/debug.json
 
 # Ignore generic client configs
 *client.json
