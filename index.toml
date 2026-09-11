@@ -2549,6 +2549,11 @@ hash = "b295bc9f639c297146ec3d4f5103d1edc25849eadedaab338440cbba0d6327f1"
 metafile = true
 
 [[files]]
+file = "mods/tfmw.pw.toml"
+hash = "bb6ced0807f4a0e65da7feb41ed638912a763134c7f44fdc532854ee72c69e62"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "55df9531ad6c2db9a814bdb32c0cac04b4bc28d0ed720086d18655a0b4a622ff"
 metafile = true
