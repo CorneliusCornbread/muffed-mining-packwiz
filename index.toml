@@ -1193,6 +1193,10 @@ file = "configureddefaults/options.txt"
 hash = "5ae627f5cdb6f3305dcbfd23f31961117249cd857f7d918c66a6cbaad7655f06"
 
 [[files]]
+file = "configureddefaults/shaderpacks/ComplementaryUnboundMuffedMining_r5.zip"
+hash = "2251b5c33135b81ec4fc1432839c87904fd9028c7f4b767d0871857f1b0d9882"
+
+[[files]]
 file = "datapacks/muffed_mining.zip"
 hash = "76e440fd320bdb94bc26d62fcbad92456cd8b11ed45f0f5398849a8e95f8bb23"
 
