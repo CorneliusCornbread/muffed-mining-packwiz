@@ -2,7 +2,23 @@
   "foodItems": {
     "entries": [
       "{block:\"minecraft:barrel\",id:\"block\"}",
-      "{block:\"minecraft:chest\",id:\"block\"}"
+      "{block:\"minecraft:chest\",id:\"block\"}",
+      "{id:\"item\",item:\"brewinandchewin:bloody_mary\"}",
+      "{id:\"item\",item:\"brewinandchewin:red_rum\"}",
+      "{id:\"item\",item:\"brewinandchewin:strongroot_ale\"}",
+      "{id:\"item\",item:\"brewinandchewin:steel_toe_stout\"}",
+      "{id:\"item\",item:\"brewinandchewin:dread_nog\"}",
+      "{id:\"item\",item:\"brewinandchewin:withering_dross\"}",
+      "{id:\"item\",item:\"brewinandchewin:kombucha\"}",
+      "{id:\"item\",item:\"brewinandchewin:beer\"}",
+      "{id:\"item\",item:\"brewinandchewin:vodka\"}",
+      "{id:\"item\",item:\"brewinandchewin:mead\"}",
+      "{id:\"item\",item:\"brewinandchewin:rice_wine\"}",
+      "{id:\"item\",item:\"brewinandchewin:pale_jane\"}",
+      "{id:\"item\",item:\"brewinandchewin:egg_grog\"}",
+      "{id:\"item\",item:\"brewinandchewin:glittering_grenadine\"}",
+      "{id:\"item\",item:\"brewinandchewin:saccharine_rum\"}",
+      "{id:\"item\",item:\"brewinandchewin:salty_folly\"}"
     ],
     "isWhitelist": false
   },
@@ -66,6 +82,10 @@
     {
       "ingredient": "{id:\"item\",item:\"minecraft:enchanted_golden_apple\"}",
       "diversity": 5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersrespite:coffee_cake_slice\"}",
+      "diversity": 2
     }
   ]
 }

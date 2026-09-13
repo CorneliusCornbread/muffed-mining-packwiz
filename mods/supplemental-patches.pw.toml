@@ -1,0 +1,13 @@
+name = "Supplemental Patches"
+filename = "supplemental_patches-1.0.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7G5M8xtj/versions/IlJ7gVU2/supplemental_patches-1.0.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8bd16ebe226f416eb854a702b5711be9204d677ce0034471292e26e6c7a7496f68269563803a2d319f31a09ccf7616028754547ee01a4dc04ef06684db9c98d3"
+
+[update]
+[update.modrinth]
+mod-id = "7G5M8xtj"
+version = "IlJ7gVU2"

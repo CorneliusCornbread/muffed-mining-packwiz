@@ -2,11 +2,14 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
+    "farmersdelight",
     "create",
     "tfmg",
     "mekanism",
     "stellaris",
-    "chemica"
+    "chemica",
+    "create_gravlax",
+    "bakeries"
   ],
   "priority_overrides": {},
   "stone_variants": [

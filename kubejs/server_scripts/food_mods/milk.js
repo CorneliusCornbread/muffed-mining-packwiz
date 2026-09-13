@@ -6,3 +6,14 @@ ServerEvents.tags('item', event => {
 
     console.info('Updated milk food tags successfully')
 })
+
+ServerEvents.recipes(event => {
+    event.remove({ output: 'create_gravlax:milk_bottle' });
+
+    event.shapeless('4x farmersdelight:milk_bottle', [
+        'minecraft:milk_bucket',
+        '4x minecraft:glass_bottle'
+    ]).id('kubejs:milk_bottle')
+
+    console.info("Added milk bottle recipes successfully")
+})
