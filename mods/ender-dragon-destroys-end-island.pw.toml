@@ -1,6 +1,6 @@
 name = "Ender Dragon Destroys End Island"
 filename = "enderdragondestroysendisland-2.2.2+mc1.21-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hsDp2t4Z/versions/wikjLUBG/enderdragondestroysendisland-2.2.2%2Bmc1.21-neoforge.jar"

@@ -198,7 +198,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "767747e945e7292b5039045d6412b7cfb710d00718803cf8c480734f89f1bd52"
+hash = "040fbfb186043cfd4edcc2267c21a6425698bdec06bc31724fb3358a083b7014"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -1062,7 +1062,7 @@ hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "config/solonion.json"
-hash = "b2fec0cd290509791adb5e1c484db297b18e325a6a13083bc680b9e9ab122bb7"
+hash = "1cbcdb3cc385726cd9551721153ff5beb9635ead7e708c3cc9e1e319f9030d11"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1231,6 +1231,10 @@ hash = "a02aae53726c2a81bc389c0f0723977b692e9ce751a000435b2e7af0df3be42e"
 [[files]]
 file = "kubejs/server_scripts/food_mods/beetroot.js"
 hash = "098860f8ce365a1e756ca88f447ec0ee945bef4fdf5fbdaf2d33d17d8f46f241"
+
+[[files]]
+file = "kubejs/server_scripts/food_mods/fd_bark.js"
+hash = "6125eb5e81085a5f0b8c272a3b81d7dd57f4fcc16c3b87baeb26ce83e7982e3c"
 
 [[files]]
 file = "kubejs/server_scripts/food_mods/fruits.js"
@@ -1823,7 +1827,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-dragon-destroys-end-island.pw.toml"
-hash = "869f1cd0dbaf01575ff557b4dcc1353c129311e835609de48e320e5878367de2"
+hash = "5fa4f622ce363ca483c1cf17d3413f59e1d073cc56f21e7bdf0b60e94c60074b"
 metafile = true
 
 [[files]]
