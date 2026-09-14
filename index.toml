@@ -1686,11 +1686,6 @@ hash = "6c688eefcb537853dc50eda391ec3fb80253c7370fc978dcd60eae29e6e87b18"
 metafile = true
 
 [[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
-metafile = true
-
-[[files]]
 file = "mods/create-waystones-recipes.pw.toml"
 hash = "009321bf662bf580a9858d97f0c81770dbd4d06df6df0811d2d870ab5bcce621"
 metafile = true
@@ -2586,19 +2581,18 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tfmg-community-edition.pw.toml"
+hash = "c72cde8c565112f3951087a4f3842d67050e5956a850c3d89e90ceeeee37cd69"
+metafile = true
+
+[[files]]
 file = "mods/tfmg-energy-converter.pw.toml"
 hash = "71e1960f7fc9975d2d11a66279bad02f18c72687088517c464e3d504d5dfe7be"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-stellaris-compat.pw.toml"
-hash = "b295bc9f639c297146ec3d4f5103d1edc25849eadedaab338440cbba0d6327f1"
-metafile = true
-
-[[files]]
-file = "mods/tfmw.pw.toml"
-hash = "bb6ced0807f4a0e65da7feb41ed638912a763134c7f44fdc532854ee72c69e62"
-metafile = true
+file = "mods/tfmg_stellaris_compat-1.3.0.jar"
+hash = "72485f17effd0d1af2da69301b2b631df9b8c24fb9362829f310472fd891868e"
 
 [[files]]
 file = "mods/titanium.pw.toml"
