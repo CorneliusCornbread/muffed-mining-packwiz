@@ -2565,11 +2565,6 @@ hash = "cb482e97a3a0715cc7e9d9b660b31b6062079c36dfd1f1fe7b15ff87a9e90e96"
 metafile = true
 
 [[files]]
-file = "mods/supplemental-patches.pw.toml"
-hash = "9771274186a524c958a5157ec373d949f51935b34411d6b2e2df55cf83c14722"
-metafile = true
-
-[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
