@@ -1360,11 +1360,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/astrocraft.pw.toml"
-hash = "ca03f3d49a4b330ce431a9bfa4aa6b9ef879fd2983d944e9c3a81752ca258887"
-metafile = true
-
-[[files]]
 file = "mods/asynclogger.pw.toml"
 hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
 metafile = true
