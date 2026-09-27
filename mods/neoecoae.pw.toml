@@ -1,13 +1,13 @@
 name = "Neo Eco AE Extension"
-filename = "neoecoae-21.2.0-beta3.jar"
+filename = "neoecoae-21.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/udZtKfzP/versions/1vKpC42G/neoecoae-21.2.0-beta3.jar"
+url = "https://cdn.modrinth.com/data/udZtKfzP/versions/cyNfBT7v/neoecoae-21.2.0.jar"
 hash-format = "sha512"
-hash = "4b23bf3fb3979d2c1b59074fe94c5d3e563aa13132231e6f16b71e89b1dd2c41c198603b522e09356d87ab18361a05f660f2f14ab7a030cd8d5ed4c9bb94f3d3"
+hash = "420c4442cffa4a96d76efac21490bb17b8ce2cdb4477b3d87f5b0bb0d55cdb011d1ab1da59daea5c7ee7e4f559db5e7a3515fa64045b7e57ee126054abae83cb"
 
 [update]
 [update.modrinth]
 mod-id = "udZtKfzP"
-version = "1vKpC42G"
+version = "cyNfBT7v"
