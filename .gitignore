@@ -8,6 +8,9 @@
 # Ignore backups
 *.bak
 
+# Ignore documentation created by the client
+*.md
+
 # Ignore temp files
 config/spark/tmp/
 
@@ -24,3 +27,4 @@ config/fzzy_config/keybinds.toml
 config/chunksmith/worldgen-faults.txt
 config/chunksmith/tasks/
 config/Veinminer/update/
+config/cubes_without_borders.json

@@ -23,6 +23,9 @@ config/almostunified/debug.json
 # Ignore backups
 *.bak
 
+# Ignore documentation created by the client
+*.md
+
 # Specific mod client configs
 config/DistantHorizons.toml
 config/litematica/
@@ -37,3 +40,4 @@ config/fzzy_config/keybinds.toml
 config/chunksmith/worldgen-faults.txt
 config/chunksmith/tasks/
 config/Veinminer/update/
+config/cubes_without_borders.json

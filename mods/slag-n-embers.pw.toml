@@ -1,13 +1,13 @@
 name = "Slag n' Embers"
-filename = "Slag-n-Embers-1.21.1-1.1a.jar"
+filename = "Slag-n-Embers-1.21.1-1.2b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/56bnCCwq/versions/CGRQn5ML/Slag-n-Embers-1.21.1-1.1a.jar"
+url = "https://cdn.modrinth.com/data/56bnCCwq/versions/KfV9qBiR/Slag-n-Embers-1.21.1-1.2b.jar"
 hash-format = "sha512"
-hash = "1b7209fac5573a4a86ecdf18abdf3e6a81260eafa3cf617fba1f295f777bab887c94cb93b6f2090facbc83616e385b1dbbbf3141badf7d245da9fd7754f09033"
+hash = "b486dbf5b9e927af39297db67003224655d75f415abc7ba873ed4eca10b48c1600fc6b99dffeed1e8eff4707eadf62857f265e265b888163ceb5bcd5c118350a"
 
 [update]
 [update.modrinth]
 mod-id = "56bnCCwq"
-version = "CGRQn5ML"
+version = "KfV9qBiR"

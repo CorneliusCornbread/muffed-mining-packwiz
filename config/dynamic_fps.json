@@ -1,0 +1,10 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30
+    },
+    "abandoned": {
+      "frame_rate_target": 30
+    }
+  }
+}

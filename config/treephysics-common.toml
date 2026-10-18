@@ -60,3 +60,7 @@ tree_entity_damage = 25.0
 	axes_push_trees = false
 	#treephysics.config.static_leaf_collision.tooltip
 	static_leaf_collision = false
+
+[compatibility]
+	#treephysics.config.create_saws_fell_trees.tooltip
+	create_saws_fell_trees = false

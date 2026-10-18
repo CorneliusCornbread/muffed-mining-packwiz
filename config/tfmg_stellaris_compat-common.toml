@@ -1,4 +1,19 @@
 #.
+#Config for Solar Panel
+["Solar Panel"]
+	#.
+	#.
+	#The voltage output of the solar panel.
+	# Default: 120
+	# Range: > 0
+	voltageBase = 120
+	#.
+	#The power output of the solar panel.
+	# Default: 1000
+	# Range: > 0
+	powerBase = 1000
+
+#.
 #Config for RTG Generator
 [RTG]
 
@@ -60,18 +75,3 @@
 		# Default: 0.30000001192092896
 		# Range: 0.0 ~ 1.0
 		maxRTGPowerDecay = 0.30000001192092896
-
-#.
-#Config for Solar Panel
-["Solar Panel"]
-	#.
-	#.
-	#The voltage output of the solar panel.
-	# Default: 120
-	# Range: > 0
-	voltageBase = 120
-	#.
-	#The power output of the solar panel.
-	# Default: 1000
-	# Range: > 0
-	powerBase = 1000

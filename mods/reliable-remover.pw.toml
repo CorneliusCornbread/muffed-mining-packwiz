@@ -1,13 +1,13 @@
 name = "Reliable Remover"
-filename = "reliable_remover-3.2.1+1.21.1-neoforge.jar"
+filename = "reliable_remover-3.7.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pLxsKvNt/versions/hT063nBT/reliable_remover-3.2.1%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/pLxsKvNt/versions/s8n9b4CS/reliable_remover-3.7.2%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "a93132e2924483069ca55db8a1b2a69f67a57ec1438edc5618aac3721e293c62d84b2990b482b24b01976621407a655749a75727831f37242f0e47b69cfba577"
+hash = "76de1b30369fcc92f309ec990f85fdb70df43a810627f41b72e51372200208d5dbdcda0551d6a911db6f4aa0fc37238b5271ed88a1a54c415184e1e82abceebe"
 
 [update]
 [update.modrinth]
 mod-id = "pLxsKvNt"
-version = "hT063nBT"
+version = "s8n9b4CS"

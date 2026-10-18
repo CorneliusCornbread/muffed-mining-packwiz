@@ -1,0 +1,39 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Current Game Music Track -> Config",
+	"Enable Current Game Music Track": {
+		"//": "Whether Current Game Music Track is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"durationTitleShownInTicks": {
+		"//": "How long the music track title should be visible on the screen. 20 ticks = 1 second. min: 0, max: 1,200",
+		"value": 80
+	},
+	"titleShouldFadeIn": {
+		"//": "Whether the music track title should fade in.",
+		"value": true
+	},
+	"titleShouldFadeOut": {
+		"//": "Whether the music track title should fade out.",
+		"value": true
+	},
+	"musicGUIPosition": {
+		"//": "Where the music GUI is shown at the bottom of the screen. options: Left, Center, Right",
+		"value": "Center"
+	},
+	"musicGUIBottomHeightOffset": {
+		"//": "The vertical offset (y coord) for the music GUI. This determines how far up the text should be on the screen. Can be changed to prevent GUIs from overlapping. min: 0, max: 3,000",
+		"value": 72
+	},
+	"musicGUIWidthOffset": {
+		"//": "The horizontal offset (x coord) for the music GUI. min: -3,000, max: 3,000",
+		"value": 0
+	},
+	"drawTextShadow": {
+		"//": "If the text displayed should have a shadow drawn below it.",
+		"value": true
+	},
+	"RGB": {
+		"//": "The colour of the music GUI text, as red, green and blue values from 0 to 255.",
+		"value": "13,120,26"
+	}
+}

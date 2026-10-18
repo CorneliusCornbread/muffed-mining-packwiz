@@ -1,7 +1,3 @@
-		[types.wood_type.alexscaves]
-			pewen = true
-			thornwood = true
-
 		[types.wood_type.biomesoplenty]
 			fir = true
 			pine = true
@@ -51,9 +47,6 @@
 
 		[types.wood_type.vinery]
 			dark_cherry = true
-
-		[types.leaves_type.alexscaves]
-			ancient = true
 
 		[types.leaves_type.biomesoplenty]
 			null = true
@@ -145,6 +138,66 @@
 			chair = true
 			desk_drawer = true
 			desk = true
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			shelf = true
+			cupboard = true
+			dining_bench = true
+			bench = true
+			drawer = true
+			pillar_trim = true
+			side_table = true
+			nightstand = true
+			couch = true
+			table = true
+			chair = true
+
+		[entries.wood_type.mcwdoors]
+			nether_door = true
+			stable_head_door = true
+			japanese2_door = true
+			tropical_door = true
+			barn_glass_door = true
+			cottage_door = true
+			four_panel_door = true
+			western_door = true
+			paper_door = true
+			bamboo_door = true
+			swamp_door = true
+			glass_door = true
+			beach_door = true
+			barn_door = true
+			mystic_door = true
+			whispering_door = true
+			waffle_door = true
+			japanese_door = true
+			bark_glass_door = true
+			classic_door = true
+			stable_door = true
+			modern_door = true
+
+		[entries.wood_type.mcwtrpdoors]
+			ranch_trapdoor = true
+			classic_trapdoor = true
+			bamboo_trapdoor = true
+			beach_trapdoor = true
+			swamp_trapdoor = true
+			barn_trapdoor = true
+			four_panel_trapdoor = true
+			glass_trapdoor = true
+			whispering_trapdoor = true
+			barred_trapdoor = true
+			blossom_trapdoor = true
+			tropical_trapdoor = true
+			cottage_trapdoor = true
+			paper_trapdoor = true
+			bark_trapdoor = true
+			mystic_trapdoor = true
+			barrel_trapdoor = true
 
 		[entries.leaves_type.quark]
 			hedge = true

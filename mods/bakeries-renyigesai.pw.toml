@@ -1,13 +1,13 @@
 name = "Bakeries"
-filename = "bakeries-1.21.1-NeoForge-1.0.4.jar"
+filename = "bakeries-1.21.1-NeoForge-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZugnklTp/versions/xubEs3BQ/bakeries-1.21.1-NeoForge-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/ZugnklTp/versions/5nomzI3M/bakeries-1.21.1-NeoForge-1.0.5.jar"
 hash-format = "sha512"
-hash = "4eaf205c35356347af34cc9b98f9f9bc83d357977c60a67f23ab7a05de21ae518332b37e26a755e635345fe94c07efc42b1d89b1e455cad1df22118f0fa6eb77"
+hash = "5e560de512dded9e1352fda7b3c4eb8ba04faa0a7e9b4747981acb6755e2f294fb136204a709c9b84e4137249478da8b1221938deed2761f312e95a4cf50a568"
 
 [update]
 [update.modrinth]
 mod-id = "ZugnklTp"
-version = "xubEs3BQ"
+version = "5nomzI3M"

@@ -38,7 +38,7 @@
 	diseasemodifier = 5
 	#If part of the colony is loaded by an owner/officer, should the colony be kept loaded? (Set how many chunks are loaded with the "Colony Chunk Loading Strictness" option.) [Default: true]
 	forceloadcolony = true
-	#Set how long chunks stay loaded after player leaves, does not persist through restarts. Default: 10min [Default: 20, min: 1, max: 1440]
+	#Set how long chunks stay loaded after player leaves, does not persist through restarts. [Default: 20, min: 1, max: 1440]
 	# Default: 20
 	# Range: 1 ~ 1440
 	loadtime = 20
@@ -112,18 +112,6 @@
 
 #All configuration items related to the combat elements of MineColonies
 [combat]
-	#minecolonies.config.dobarbariansspawn.comment [Default: true]
-	dobarbariansspawn = true
-	#minecolonies.config.barbarianhordedifficulty.comment [Default: 5, min: 0, max: 10]
-	# Default: 5
-	# Range: 0 ~ 10
-	barbarianhordedifficulty = 5
-	#minecolonies.config.maxBarbarianSize.comment [Default: 80, min: 6, max: 400]
-	# Default: 80
-	# Range: 6 ~ 400
-	maxBarbarianSize = 80
-	#minecolonies.config.dobarbariansbreakthroughwalls.comment [Default: true]
-	dobarbariansbreakthroughwalls = true
 	#The average number of nights between raids. [Default: 14, min: 1, max: 50]
 	# Default: 14
 	# Range: 1 ~ 50
@@ -134,8 +122,6 @@
 	minimumnumberofnightsbetweenraids = 10
 	#Should mobs attack citizens? [Default: true]
 	mobattackcitizens = true
-	#minecolonies.config.shouldraiderbreakdoors.comment [Default: true]
-	shouldraiderbreakdoors = true
 	#Attack damage multiplier for Guards. [Default: 1.0, min: 0.1, max: 15.0]
 	# Default: 1.0
 	# Range: 0.1 ~ 15.0
@@ -146,6 +132,20 @@
 	guardhealthmult = 1.0
 	#Turn on MineColonies PVP mode (colonies can be destroyed and griefed under certain conditions). [Default: false]
 	pvp_mode = false
+	#Whether or not to spawn raiders. [Default: true]
+	enablecolonyraids = true
+	#The difficulty setting for raids. [Default: 5, min: 0, max: 10]
+	# Default: 5
+	# Range: 0 ~ 10
+	raidDifficulty = 5
+	#The maximum amount of raiders spawned per raid [Default: 80, min: 6, max: 400]
+	# Default: 80
+	# Range: 6 ~ 400
+	maxRaiders = 80
+	#Whether or not raiders are able to break through blocks [Default: true]
+	raidersbreakblocks = true
+	#Whether or not raiders can break through doors. [Default: true]
+	raidersbreakdoors = true
 
 #All permission configuration options
 [permissions]
