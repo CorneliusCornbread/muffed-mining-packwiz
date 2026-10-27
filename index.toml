@@ -2361,6 +2361,11 @@ hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
 metafile = true
 
 [[files]]
+file = "mods/living-horizon.pw.toml"
+hash = "5a1709b18238519b163bc31d86d441852d7cf0fe59779b6389d12d9ca0021542"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true

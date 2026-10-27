@@ -1,0 +1,13 @@
+name = "Living Horizon"
+filename = "livinghorizon-0.12.0+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a173d1de3eee3b15702cd45c01a9b227b71f708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9297821
+project-id = 1730768
